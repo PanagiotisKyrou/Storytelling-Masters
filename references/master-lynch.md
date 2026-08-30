@@ -2,11 +2,13 @@
 
 Use this dossier when the brief needs an experiential idea, a breach in an ordinary model, clues, recurrence, or a remainder that should be felt rather than fully paraphrased. Do not imitate Lynch's recognizable imagery or treat randomness as mystery.
 
+Read evidence anchors `L1–L4` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+
 ## Research findings
 
 ### Ideas grow from charged seeds — P
 
-In a *Lynch on Lynch* interview republished by Criterion, Lynch describes an idea arriving with energy, beginning small, expanding, and attracting other ideas. Some strands continue; others die; an earlier strand may return later in another form.
+In a *Lynch on Lynch* interview republished by Criterion, Lynch describes an idea arriving with energy, beginning small, expanding, and attracting other ideas. Some strands continue; others die; an earlier strand may return later in another form. In *ArtReview*, he defines an idea as more than a verbal premise: it can already contain sound, mood, and information.
 
 **Operational inference — S:** begin with source material that already has charge. Let related fragments gather before forcing a thesis. Preserve the right to discard weak strands.
 
@@ -15,6 +17,8 @@ In a *Lynch on Lynch* interview republished by Criterion, Lynch describes an ide
 In the same interview, Lynch treats clues and indications as material the audience holds and assembles. He argues that over-explanation removes the pleasure of thinking and feeling through the work.
 
 **Operational inference — S:** create a constrained inference path. Give enough indication to make interpretation active, not so little that arbitrary readings become equally likely.
+
+**Required distinction:** a required fact must be legible; an optional meaning may remain open. Never make factual uncertainty look profound by withholding evidence.
 
 ### Recurrence changes meaning — P
 
@@ -28,6 +32,8 @@ In the 1986 *Film Comment* interview, Lynch says even a strange story establishe
 
 **Operational inference — S:** write the candidate's internal rule before introducing a nonliteral event. A breach should violate the audience's surface model while remaining coherent inside the work.
 
+**Dishonesty test — S:** if the same anomaly can mean anything, arrive anywhere, or change behavior whenever the sequence needs a surprise, the world has no usable rule.
+
 ### Contrast provides force — P
 
 The *Blue Velvet* interview links the work's power to holding innocence and darkness together, and describes a journey beneath an apparently ordinary surface and back out.
@@ -40,16 +46,39 @@ In an interview published by *AnOther*, Lynch compares flow in film and painting
 
 **Operational inference — S:** use density, duration, and visual pressure as relationships. Do not make every frame equally intense.
 
+### A script is a retrieval device, not the whole idea — P
+
+In *ArtReview*, Lynch says he writes so the fuller idea returns when he reads the words again; sound and mood may exceed the script's literal language.
+
+**Operational inference — S:** record a charged seed as a bundle: image, sound/silence, spatial feeling, motion, contradiction, and factual core. This prevents the STORY pass from collapsing the idea into a slogan before FRAME STUDIO begins.
+
+## Breach worksheet
+
+Complete this only for a route that actually benefits from mystery or a nonliteral turn.
+
+| Field | Required answer |
+|---|---|
+| `surface_model` | What ordinary relation does the audience initially believe? |
+| `charged_seed` | Which source-derived fragment already carries tension? |
+| `breach` | What exact event makes the surface model insufficient? |
+| `world_rule` | What remains consistent before and after the breach? |
+| `clue_path` | Which visible or audible facts constrain interpretation? |
+| `required_fact` | What must not be ambiguous? |
+| `permitted_remainder` | What may remain felt, plural, or unresolved? |
+| `recurrence` | What returns, and what new context changes its reading? |
+| `removal_loss` | What narrative or emotional function disappears if the anomaly is removed? |
+
 ## STORY protocol
 
-1. Harvest 8–12 source-derived fragments: image, phrase, object, place, contradiction, number, action, absence, or mismatch.
+1. Harvest a small, sufficient set of source-derived fragments: image, phrase, object, place, contradiction, number, action, absence, or mismatch. Do not use a fixed count as a creativity ritual.
 2. Mark provenance and remove invented factual texture.
-3. Choose the fragments that contain tension before explanation.
-4. State the audience's ordinary surface model.
-5. Generate several breaches that make the surface insufficient.
-6. For each breach, write the internal rule, clue path, likely false reading, and evidence that later recodes it.
-7. Design one possible recurrence where the same element returns with a changed reading.
-8. Remove any strand whose only value is weirdness.
+3. Capture each strong seed as a multimodal bundle rather than a thesis sentence.
+4. Choose the fragments that contain tension before explanation.
+5. State the audience's ordinary surface model.
+6. Generate distinct breaches only if they are source-safe and useful.
+7. Complete the breach worksheet for each surviving route.
+8. Design a recurrence only if changed context genuinely recodes it.
+9. Remove any strand whose only value is weirdness.
 
 ## FRAME STUDIO protocol
 
@@ -58,6 +87,8 @@ In an interview published by *AnOther*, Lynch compares flow in film and painting
 - Use clues as repeated visual facts, not labels.
 - Preserve enough continuity that the audience recognizes a return.
 - Vary fast/slow areas through density, scale, stillness, negative space, or duration.
+- Verify that required facts remain readable without solving the optional mystery.
+- Compare the anomaly against likely generation defects; an accidental extra object, distorted hand, inconsistent shadow, or continuity break is not a clue.
 - Inspect whether the rendered anomaly feels intentional and internally lawful rather than a generation artifact.
 
 ## Candidate questions
@@ -77,6 +108,7 @@ In an interview published by *AnOther*, Lynch compares flow in film and painting
 - The surface is already so strange that no breach is perceptible.
 - The work needs explanatory copy to prove the anomaly matters.
 - Recognizable Lynch motifs replace the user's brand or subject.
+- Lynch's personal number games, objects, or anecdotes are imported as if they were transferable craft rules.
 
 ## When to abstain or stay secondary
 
@@ -84,8 +116,8 @@ Stay secondary when the task requires exact procedural instruction, dense factua
 
 ## Sources
 
-- P: Criterion, [Lynch on *Mulholland Dr.*](https://www.criterion.com/current/posts/3771-an-interview-with-david-lynch)
+- P: Criterion, [Lynch on *Mulholland Dr.*](https://www.criterion.com/current/posts/3771-lynch-on-mulholland-dr)
 - P: *Film Comment*, [David Lynch on *Blue Velvet*](https://www.filmcomment.com/article/out-to-lynch-david-lynch-interview-blue-velvet/)
 - P: *AnOther*, [On Memory, Chance and Intuition](https://www.anothermag.com/design-living/8255/david-lynch-on-memory-chance-and-intuition)
 - P: *ArtReview*, [How David Lynch Fishes for Ideas](https://artreview.com/daydreaming-is-so-important-to-me-how-david-lynch-fishes-for-ideas/)
-
+- Evidence anchors and use limits: [master-evidence-ledger.md](master-evidence-ledger.md#david-lynch)
