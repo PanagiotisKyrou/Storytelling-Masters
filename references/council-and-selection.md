@@ -12,6 +12,8 @@ Use:
 
 Stop deepening when a master only renames an existing route.
 
+Before opening a full dossier, use [master-thinking-models.md](master-thinking-models.md) to record the unresolved `decision_gap`, the expected observable change, and the condition under which that master should abstain.
+
 ## Candidate comparison
 
 Compare candidates on:
@@ -26,6 +28,7 @@ Compare candidates on:
 - accessibility and legibility;
 - production feasibility;
 - distinctive value without novelty theatre.
+- thinking fit: whether the master's documented decision process resolves the present gap.
 
 Do not sum a total score. State the tradeoff that decides the choice.
 
@@ -56,4 +59,3 @@ Before production, preserve:
 - visual evidence needed from a prototype/render.
 
 If the prototype fails that evidence test, return to the choice rather than polishing it indefinitely.
-
