@@ -53,6 +53,8 @@ Every master may return **no useful contribution for this brief**. Forced finger
 
 After scouting, deepen only the dossiers that can resolve a named uncertainty or expand a promising route:
 
+First read [master-thinking-models.md](references/master-thinking-models.md) and record the `decision_gap`. Choose a master because its observable decision process can change that gap—not because its name, genre, or visual surface resembles the brief.
+
 - [master-lynch.md](references/master-lynch.md) — charged fragments, coherent breach, clues, recurrence, unresolved residue;
 - [master-scorsese.md](references/master-scorsese.md) — frame philosophy, viewpoint, visual sequencing, storyboard precision, audience testing;
 - [master-mckean.md](references/master-mckean.md) — material/register choice, image-text interdependence, association, density, reader construction;
