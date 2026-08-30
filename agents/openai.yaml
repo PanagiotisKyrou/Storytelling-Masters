@@ -1,0 +1,14 @@
+interface:
+  display_name: Master Narrative Craft
+  short_description: Create strong stories and build every frame
+  default_prompt: Use $master-narrative-craft to shape this into a strong story, create
+    the visual frames, render them, and revise the result.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
