@@ -2,7 +2,7 @@
 
 Use this dossier when the work depends on what the audience sees, what is excluded, how an order controls interpretation, or how precise frames become a sequence. Do not equate Scorsese with fast cutting, tracking shots, or gangster-film surface.
 
-Read evidence anchors `S1–S4` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+Read evidence anchors `S1–S7` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
 
 ## Research findings
 
@@ -61,6 +61,39 @@ In the NEH conversation, Scorsese identifies concrete uses of Hockney, Caravaggi
 Scorsese describes screening works repeatedly, collecting written reactions, and asking his editor which issues recur.
 
 **Operational inference — S:** aggregate comprehension evidence. A repeated misunderstanding is different from one viewer's stylistic preference. Record both, but revise for the former unless the brief makes it intentional.
+
+### Feeling comes before formal analysis — P
+
+In a DGA interview, Scorsese describes following films that affected him, watching them repeatedly, and then asking why he felt that way. His references often begin as remembered mood or impression and become specific investigations of lens, camera position, inserts, framing, or light.
+
+**Operational inference — S:** begin reference work with the target audience effect, then reverse-engineer the decisions that produced it. Never start by copying the visible move.
+
+### Structure can protect a zone of surprise — P
+
+Scorsese describes allowing actors freedom inside written dialogue and basic scene structure to obtain documentary-like surprise. He also describes rehearsed improvisation being typed, rehearsed again, and allowed to evolve.
+
+**Operational inference — S:** distinguish invariants from live variables. Lock facts, turn, and production constraints; identify the gesture, phrasing, timing, or interaction that may remain responsive.
+
+### Documentary truth is a selection criterion — P
+
+Scorsese calls the truthfulness and power he associates with documentary an ultimate quest, even in staged narrative work. Casting, observed social behavior, and real surprise are part of that search.
+
+**Operational inference — S:** ask whether a polished beat preserves a recognizable human relation or only performs cinematic technique. Use observation and specific behavior as evidence.
+
+## Observable decision model
+
+| Dimension | Evidence-backed pattern | Skill translation |
+|---|---|---|
+| attention filter | notices emotional effect, human relation, gesture, and where the frame directs attention (`S1`, `S3`, `S5`) | name the desired audience feeling and the smallest evidence that carries it |
+| generative unit | an observational anchor or remembered film effect (`S3`, `S5`) | begin from a consequential detail, then ask why it works |
+| development engine | reverse-engineering references, storyboarding the edit, and shaping order (`S4–S5`) | convert influence into transfer notes and frame-to-frame decisions |
+| selection criterion | documentary-like truthfulness plus the story's attention philosophy (`S1`, `S7`) | prefer specific behavior and earned viewpoint over display |
+| uncertainty strategy | bounded performance freedom inside clear structure (`S6`) | lock invariants and deliberately leave only named live variables open |
+| audience model | perceptive enough to infer early and reveal what a shot gives away (`S2`) | test disclosure and recurring misunderstanding without obeying every preference |
+| collaboration model | actors, cinematographers, and editors solve domains the director does not pretend to master (`S6–S7`) | invite surprise, then judge it against story and audience effect |
+| correction loop | rushes, frame inspection, editor pattern detection, and repeated audience screenings (`S2`) | revise recurring comprehension failures; log taste separately |
+| stopping rule | not established as a portable rule | use current acceptance criteria and rendered sequence evidence |
+| characteristic risk | the reference library or technique can overpower the present story | require a problem-specific transfer note for every borrowed reference |
 
 ## Frame-intent record
 
@@ -128,4 +161,5 @@ Stay secondary when a single material object or quiet graphic relation carries t
 - P: National Endowment for the Humanities, [The Art of Martin Scorsese](https://www.neh.gov/humanities/2013/julyaugust/conversation/the-art-martin-scorsese)
 - P: The Film Foundation, [Reading the Language of Cinema](https://www.film-foundation.org/the-persisting-vision)
 - P: [On Storyboarding: Conversation with Martin Scorsese](https://www.academia.edu/129663046/On_Storyboarding_Conversation_with_Martin_Scorsese) (direct interview text; hosted copy rather than the original catalogue)
+- P: Directors Guild of America, [Talking Pictures](https://www.dga.org/craft/dgaq/issues/0704-winter-2007-2008/dga-interview-martin-scorsese)
 - Evidence anchors and use limits: [master-evidence-ledger.md](master-evidence-ledger.md#martin-scorsese)
