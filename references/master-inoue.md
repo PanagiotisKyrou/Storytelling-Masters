@@ -2,7 +2,7 @@
 
 Use this dossier when the work needs lived human presence, physical credibility, natural timing, changed perspective, or fine-grained correction after seeing the frame. Do not reduce Inoue to manga linework, brush texture, or exaggerated sports motion.
 
-Read evidence anchors `I1–I4` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+Read evidence anchors `I1–I7` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
 
 ## Source caveat
 
@@ -75,6 +75,33 @@ Inoue drew directly over animation frames to correct facial expression and actin
 Inoue frames the film as a new tree from the same root and wanted returning audiences to encounter *Slam Dunk* again as if for the first time. His official statement describes facets of characters becoming visible only after he aged.
 
 **Operational inference — S:** when adapting prior work, preserve the identity-bearing root and change the viewpoint, selected life experience, or audience relation. Do not merely reproduce the old sequence with newer rendering.
+
+### Direction is communication and judgment — P
+
+Inoue says directing taught him that communication and decision-making were the central jobs. He sometimes gave a principle, worked with performers to seek answers, delegated domains such as music, and then commented on results when something felt awkward.
+
+**Operational inference — S:** do not confuse authorship with solving every domain personally. State the invariant, assign the domain, inspect the returned work, and make the accountable decision.
+
+### A tacit judgment should become a drawable correction — P
+
+Inoue says he could recognize the moment a character came to life, but his production method did not stop at that intuition: he marked expression and timing over the actual frames and inspected the revision.
+
+**Operational inference — S:** allow a tacit alarm to start review, never to finish it. Locate the defect and translate it into observable changes another person or tool can execute.
+
+## Observable decision model
+
+| Dimension | Evidence-backed pattern | Skill translation |
+|---|---|---|
+| attention filter | notices whether a character feels alive through face, body, timing, contact, and social relation (`I1`, `I4`, `I7`) | identify the micro-evidence that makes presence believable |
+| generative unit | rough pillars viewed through the creator's current perspective (`I1–I2`) | start from load-bearing lived moments, not plot coverage |
+| development engine | early blueprint, repeated pilots, hybrid technique, and current-perspective reinterpretation (`I2`, `I6`) | discover locally, then protect the whole before scaling production |
+| selection criterion | recognizable character life and natural action in the actual frame (`I4`, `I7`) | prototype the hardest life claim and judge rendered evidence |
+| uncertainty strategy | seek answers with collaborators while protecting a basic naturalistic stance | distinguish a shared search from an undefined brief |
+| audience model | should encounter familiar material with the freshness of a first meeting | preserve the root while changing perspective, emphasis, or audience relation |
+| collaboration model | communicate invariants, delegate bounded domains, inspect results, decide (`I5`) | use drawings when verbal notes cannot specify the correction |
+| correction loop | drawn frame notes for expression/timing followed by whole-sequence review (`I4–I6`) | correct exact regions or durations, then return to bird's-eye view |
+| stopping rule | no portable artistic rule established; the documented production stopped at deadline | use acceptance criteria plus blueprint and life-pass evidence |
+| characteristic risk | micro-correction absorbs attention and the whole loses shape (`I6`) | schedule explicit zoom-out reviews after local revision batches |
 
 ## Life pass
 
