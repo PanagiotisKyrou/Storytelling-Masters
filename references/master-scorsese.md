@@ -2,6 +2,8 @@
 
 Use this dossier when the work depends on what the audience sees, what is excluded, how an order controls interpretation, or how precise frames become a sequence. Do not equate Scorsese with fast cutting, tracking shots, or gangster-film surface.
 
+Read evidence anchors `S1–S4` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+
 ## Research findings
 
 ### The camera's direction is the story's philosophy — P
@@ -12,7 +14,7 @@ In a National Endowment for the Humanities conversation, Scorsese says where the
 
 ### Technique must arise from the moment — P
 
-Scorsese distinguishes meaningful camera gestures from repeating a celebrated move because it worked before. His examples link form to the specific emotional and perceptual problem.
+Scorsese distinguishes meaningful camera gestures from repeating a celebrated move because it worked before. His examples link form to the specific emotional and perceptual problem. In the NEH conversation he also asks whether modern sound and technical refinement are actually needed, warning that technique can bury the basics.
 
 **Operational inference — S:** ask what changes because the viewpoint, scale, or motion changes. If nothing changes except production value, remove it.
 
@@ -21,6 +23,8 @@ Scorsese distinguishes meaningful camera gestures from repeating a celebrated mo
 In a published conversation on storyboarding, Scorsese describes boards as a way to visualize the whole film, including frame composition, lens, character/object movement, and how one shot cuts to another. He continues to use drawings and marginal notes even when previz tools are available.
 
 **Operational inference — S:** storyboard at the level of decisions, not pretty thumbnails. A keyframe must communicate frame, movement, transition, and intended reading.
+
+**Source limit:** the storyboarding interview is a hosted copy of a 2011 German catalogue conversation. Treat it as direct interview text with hosted-copy provenance, not as a webpage originally published by Scorsese.
 
 ### The gap between frames implies movement — P
 
@@ -46,6 +50,33 @@ Scorsese recounts learning from De Niro that even turning a head needs a real re
 
 **Operational inference — S:** movement, gesture, and reaction must follow goal, perception, or pressure—not the needs of a storyboard arrow.
 
+### External visual references solve specific problems — P
+
+In the NEH conversation, Scorsese identifies concrete uses of Hockney, Caravaggio, La Tour, Bosch, Whistler, Sargent, period engravings, Jacob Riis photography, and George Bellows. The references informed composition, light, period evidence, or physical force; they were not an undifferentiated mood board.
+
+**Operational inference — S:** every reference must have a transfer note: the decision it helps solve, the feature that transfers, the feature that must not be copied, and how it fits the user's own language.
+
+### Repeated testing separates patterns from isolated taste — P
+
+Scorsese describes screening works repeatedly, collecting written reactions, and asking his editor which issues recur.
+
+**Operational inference — S:** aggregate comprehension evidence. A repeated misunderstanding is different from one viewer's stylistic preference. Record both, but revise for the former unless the brief makes it intentional.
+
+## Frame-intent record
+
+Use one record per important frame or shot. Short answers are enough.
+
+| Field | Required answer |
+|---|---|
+| `privilege` | What must the eye find first? |
+| `exclude` | What context is outside the frame, and what inference does that create? |
+| `distance` | What relation does scale/proximity establish? |
+| `gesture` | Which small action or reaction carries meaning? |
+| `motion_reason` | Why does the subject or viewpoint move now? |
+| `transition_purchase` | What changes between this frame and the next? |
+| `spoiler_risk` | What later beat could this image disclose too early? |
+| `reference_transfer` | If a reference is used, what decision—not style—does it solve? |
+
 ## STORY protocol
 
 1. List the details the current summary would erase.
@@ -55,15 +86,18 @@ Scorsese recounts learning from De Niro that even turning a head needs a real re
 5. For each order, state the audience's first interpretation, pivot, and later reinterpretation.
 6. Remove one explanatory beat and test whether the visual/story evidence already carries it.
 7. Preserve one frame/beat whose absence materially changes interpretation.
+8. Mark where silence, absence, or visual restraint performs work that added technique would weaken.
 
 ## FRAME STUDIO protocol
 
 - For every frame, declare privileged subject, excluded context, psychological distance, and eye path.
-- Draw or specify the transition between frames, not only the frames.
+- Complete the frame-intent record for load-bearing frames.
+- Draw or specify the transition between frames, not only the endpoints.
 - Use motion or scale change only when it alters information, relation, or feeling.
 - Check whether a gesture gives away a later beat.
 - Create storyboards/frames at the target aspect ratio.
-- After rendering, screen the sequence and log repeated comprehension failures separately from taste preferences.
+- Test visual references by named function; remove any that only import prestige or recognizable style.
+- After rendering, screen the sequence and log repeated comprehension failures separately from taste preferences and accessibility failures.
 
 ## Candidate questions
 
@@ -82,6 +116,8 @@ Scorsese recounts learning from De Niro that even turning a head needs a real re
 - Storyboards omit transition, movement, crop, or reading.
 - Audience feedback is cherry-picked to confirm the preferred edit.
 - A signature Scorsese move replaces the user's visual language.
+- A reference board lists admired works but cannot say which decision each reference solves.
+- More sound, motion, lighting, or cutting is treated as more cinematic by default.
 
 ## When to abstain or stay secondary
 
@@ -92,4 +128,4 @@ Stay secondary when a single material object or quiet graphic relation carries t
 - P: National Endowment for the Humanities, [The Art of Martin Scorsese](https://www.neh.gov/humanities/2013/julyaugust/conversation/the-art-martin-scorsese)
 - P: The Film Foundation, [Reading the Language of Cinema](https://www.film-foundation.org/the-persisting-vision)
 - P: [On Storyboarding: Conversation with Martin Scorsese](https://www.academia.edu/129663046/On_Storyboarding_Conversation_with_Martin_Scorsese) (direct interview text; hosted copy rather than the original catalogue)
-
+- Evidence anchors and use limits: [master-evidence-ledger.md](master-evidence-ledger.md#martin-scorsese)
