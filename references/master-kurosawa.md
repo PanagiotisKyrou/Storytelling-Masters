@@ -2,7 +2,7 @@
 
 Use this dossier when the story needs clear changing relations, motivated action, multiple forces, environment as an active participant, previsualization, or ruthless editorial discipline. Do not reduce Kurosawa to samurai imagery, weather, or dynamic blocking.
 
-Read evidence anchors `K1–K5` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+Read evidence anchors `K1–K8` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
 
 ## Source caveat
 
@@ -73,6 +73,33 @@ His notes describe rehearsing actors, camera, and lighting together; Criterion a
 Kurosawa describes editing the day's rushes before showing them to the crew, so they could understand why difficult fragments mattered and recover energy from seeing the assembled result.
 
 **Operational inference — S:** for long visual sequences, assemble and review partial renders during production. Do not wait until every frame is polished to discover that the sequence has no movement or that the team is solving incompatible pictures.
+
+### Practice outranks abstract theory — C
+
+Donald Richie, who knew and wrote extensively about Kurosawa, characterizes his focus as practical: making films more convincing, real, and right rather than building theory about them.
+
+**Operational inference — S:** turn a critique into a change to action, staging, environment, tempo, frame, or cut. If a conceptual note cannot predict what will look different, it is not yet operational.
+
+### Collaboration can be adversarial without becoming incoherent — C/O
+
+Criterion's account of Kurosawa's screenwriting circle describes three or four writers tackling the same material in a competitive spirit. Kurosawa's own notes describe multiple writers as protection against one-sided characterization.
+
+**Operational inference — S:** ask collaborators or passes to produce independent causal readings before synthesis. Preserve the disagreement long enough to expose easy plotting; the director still resolves the final system.
+
+## Observable decision model
+
+| Dimension | Evidence-backed pattern | Skill translation |
+|---|---|---|
+| attention filter | notices motive, behavior, tempo, spatial relation, environmental force, and audience effect (`K1–K4`, `K6`) | define the state and make it visible through action |
+| generative unit | a screenplay problem expressed through people and situation (`K1–K2`) | start with actors, goals, knowledge, constraints, and environment |
+| development engine | independent interpretations, exhaustive preparation, rehearsal, and practical production solutions (`K7`) | stress-test causality before coordinating movement and viewpoint |
+| selection criterion | convincing behavior and an interesting, necessary assembled result (`K5–K6`) | judge the finished beat, not intention or production difficulty |
+| uncertainty strategy | plan repeatable relations; widen coverage where action cannot be reproduced | tie flexibility to a named execution risk rather than generic coverage |
+| audience model | sees the assembled behavior and effect, not the labor used to obtain it (`K5`) | remove explanation and sunk-cost defenses; test what the sequence actually communicates |
+| collaboration model | competitive writing and a coordinated production unit (`K7`) | preserve independent readings, then make one accountable decision |
+| correction loop | edit daily, show the assembled whole, adjust later production, cut sunk cost (`K5`, `K8`) | review partial sequences while fixes remain cheap |
+| stopping rule | no universal release rule established; unnecessary or uninteresting material must leave | use the brief's ending condition and cut test |
+| characteristic risk | rigor becomes mechanical control or historical practice becomes imitation | keep character autonomy and modern safety/production limits primary |
 
 ## State vector
 
@@ -151,4 +178,5 @@ Stay secondary when the work's value is a quiet associative still, unresolved se
 - P-I: [Kurosawa on editing](https://akirakurosawa.info/akira-kurosawa-quotes/kurosawa-quotes-editing/)
 - C/O: Criterion, [From the Kurosawa Archives](https://www.criterion.com/current/posts/4471-from-the-kurosawa-archives)
 - C: Criterion, [Teruyo Nogami on working with Kurosawa](https://www.criterion.com/current/posts/4307-teruyo-nogami-on-working-with-akira-kurosawa)
+- C/O: Criterion, [Mightier Than the Sword: Shinobu Hashimoto at 100](https://www.criterion.com/current/posts/5737-mightier-than-the-sword-shinobu-hashimoto-at-100)
 - Evidence anchors and use limits: [master-evidence-ledger.md](master-evidence-ledger.md#akira-kurosawa)
