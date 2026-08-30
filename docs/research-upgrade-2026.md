@@ -55,13 +55,8 @@ Primary/production sources: [Inoue's official statement](https://itplanning.co.j
 | Kurosawa | state vector and motivation/movement ledger |
 | Inoue | life pass and visual correction note |
 
-## Validation
+## Validation boundary
 
-- Package validation: pass.
-- Existing run/contamination tests: 4/4 pass.
-- Research-upgrade tests: 6/6 pass.
-- Held-out synthetic STORY test: pass; three masters contributed different operations and two abstained.
-- Held-out synthetic FRAME STUDIO test: pass as an unverified production specification; it is deliberately not called finished because it was not rendered.
-- Gate 03 terms remain only in the quarantined audit and regression validator/tests.
+The research tests check evidence anchors, provenance boundaries, and whether the five documented decision models remain distinct. They do not certify story quality, visual quality, or successful transfer to a new brief.
 
-The tests prove structural integrity, provenance controls, abstention, and contamination resistance. They do not certify aesthetic excellence; rendered work still requires pixel and sequence inspection.
+Creative use must be tested against a straightforward control at comparable finish. The actual writing or rendered artifact—not a process record—decides whether a master-derived operation added value.

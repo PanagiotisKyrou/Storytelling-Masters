@@ -1,61 +1,34 @@
-# Council and selection
+# Comparison and selection
 
-The council preserves distinct ways of seeing long enough to make a better choice. It is not a five-way vote and not a recipe for blending signatures.
+The council exists to widen the decision before commitment. It is not a vote, a ritual number of candidates, or a guarantee of quality.
 
-## Exploration depth
+## Before comparison
 
-Use:
+- Keep a straightforward reading of the source available as a control.
+- Remove duplicate proposal families even when they use different master vocabulary.
+- Drop any contribution that cannot predict an observable change in the story or artifact.
+- Keep master names hidden during quality judgment when practical; prestige must not decide.
 
-- **compact** for a single frame or low-risk revision: five scouts, deepen 1–2 masters;
-- **standard** for a carousel, deck, or short sequence: five scouts, deepen 2–3 masters;
-- **full council** for flagship or high-risk work: five scouts and any number of full dossiers that add unique evidence or operations.
+## Compare the actual decisions
 
-Stop deepening when a master only renames an existing route.
+Use criteria relevant to the current brief:
 
-Before opening a full dossier, use [master-thinking-models.md](master-thinking-models.md) to record the unresolved `decision_gap`, the expected observable change, and the condition under which that master should abstain.
+- fidelity to supplied facts and causal limits;
+- usefulness to the intended audience;
+- strength and honesty of the audience change;
+- fit with the selected medium;
+- voice and brand fit;
+- image-text division of labor for visual work;
+- specificity, human credibility, and aesthetic coherence;
+- production feasibility and accessibility;
+- value added over the straightforward control.
 
-## Candidate comparison
+Do not total a score. State the tradeoff that decides the recommendation.
 
-Compare candidates on:
+## Prototype only when necessary
 
-- truth and causal integrity;
-- fit to the user's voice, brand, and rejected directions;
-- audience-state change;
-- medium-native use of time, space, interaction, or sequence;
-- image/text division of labor;
-- story force and emotional/lived credibility;
-- aesthetic coherence;
-- accessibility and legibility;
-- production feasibility;
-- distinctive value without novelty theatre.
-- thinking fit: whether the master's documented decision process resolves the present gap.
+If prose comparison cannot resolve a visual choice, build comparable representative prototypes at the intended dimensions. Use the same degree of finish. Inspect them without master labels. Do not build the full sequence before the user chooses a visual direction.
 
-Do not sum a total score. State the tradeoff that decides the choice.
+## Handoff
 
-## Baseline use
-
-A baseline is optional. Use it when the brief is especially vulnerable to a predictable cliché or inherited template. Derive it from the current brief, label it as a comparison, and do not assume distance from it is automatically better.
-
-## Selective synthesis
-
-Combine compatible decisions, not signatures.
-
-Example:
-
-- McKean establishes an image-text relationship;
-- Scorsese finds the order that changes its reading;
-- Inoue removes a false reaction.
-
-Reject “master soup” that lists techniques but has no governing logic.
-
-## Commitment record
-
-Before production, preserve:
-
-- chosen route;
-- strongest alternative;
-- deciding tradeoff;
-- assumptions that could invalidate the choice;
-- visual evidence needed from a prototype/render.
-
-If the prototype fails that evidence test, return to the choice rather than polishing it indefinitely.
+Return a recommendation and the strongest genuinely different alternative. Explain what each makes possible and what each sacrifices. The user selects, combines deliberately, or sends the exploration back. Once selected, preserve that direction through production unless rendered evidence invalidates it.

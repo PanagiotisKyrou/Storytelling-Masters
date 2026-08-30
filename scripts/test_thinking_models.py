@@ -104,10 +104,8 @@ class ThinkingModelTests(unittest.TestCase):
 
     def test_thinking_models_are_discoverable(self):
         entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8")
-        scout = (REFS / "master-scout.md").read_text(encoding="utf-8")
-        council = (REFS / "council-and-selection.md").read_text(encoding="utf-8")
-        for text in (entrypoint, scout, council):
-            self.assertIn("master-thinking-models.md", text)
+        for filename in MASTERS.values():
+            self.assertIn(filename, entrypoint)
 
 
 if __name__ == "__main__":

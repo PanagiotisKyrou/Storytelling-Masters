@@ -1,94 +1,26 @@
-# STORY mode
+# Story exploration
 
-Produce a narrative experience, not a compressed topic summary.
+Use this reference when the open decision is how to tell the material. The result is a co-creation handoff, not finished copy unless the user has already chosen a direction and explicitly asks for the draft.
 
-## 1. Story truth
+## Ground the material
 
-Create a compact ledger:
+Separate observed or supplied facts, supported inference, uncertainty, and forbidden invention. Identify the audience's current model, the intended change, the practical or emotional stake, and the part that must be experienced rather than explained.
 
-- observed/supplied;
-- supported inference;
-- unknown;
-- forbidden invention;
-- conceptual imagery allowed;
-- causal claims and their strength.
+Harvest source-specific material before creating metaphors: actions, decisions, contradictions, objects, environments, exact language, consequences, missing evidence, and the creator's legitimate connection to the subject.
 
-## 2. Audience-state path
+## Explore
 
-Define:
+Run the five inquiries. Let routes differ in narrative operation—not merely tone, wording, or surface imagery. A route should make clear:
 
-- entry model;
-- desired exit model;
-- emotional or practical stake;
-- what the audience must experience rather than be told;
-- what should remain unresolved, if anything.
+- what the audience encounters first;
+- what develops or accumulates;
+- what changes the reading;
+- what remains, resolves, or becomes actionable;
+- what the selected medium contributes;
+- what the route risks distorting or inventing.
 
-## 3. Story material
+Do not enforce a fixed number. Stop when the remaining proposals are duplicates or weaker variations.
 
-Harvest source-specific material before inventing a metaphor:
+## Handoff
 
-- people and goals;
-- actions and decisions;
-- objects and environments;
-- contradictions;
-- costs and consequences;
-- exact phrases or images with provenance;
-- missing evidence that must stay missing.
-
-## 4. Run the master scout
-
-Use [master-scout.md](master-scout.md). Deepen only the dossiers that add a named option or resolve a named uncertainty.
-
-## 5. Generate story routes
-
-Scale to the job:
-
-- compact: about 3 meaningfully different routes;
-- standard: about 5;
-- flagship/high-risk: 5–8, stopping when new routes no longer change the decision.
-
-Routes must differ in audience experience or causal/narrative operation, not adjectives or surface styling. Include a straightforward route when it is credible; do not make novelty mandatory.
-
-For each route record:
-
-- governing experience;
-- opening state;
-- development operation;
-- turn or discovery;
-- ending residue/action;
-- what the visual medium can contribute;
-- truth risk and production risk.
-
-## 6. Select comparatively
-
-Compare at least two credible routes under the same criteria. Select one and preserve the strongest rejected alternative and why it lost.
-
-## 7. Beat map
-
-For each beat specify:
-
-- audience model before;
-- event/evidence;
-- narrative operation: establish, add, contrast, infer, breach, reframe, recur, resolve, or leave residue;
-- audience model after;
-- unresolved question;
-- why the next beat follows.
-
-Remove beats that only paraphrase the previous beat.
-
-## 8. First and last states
-
-The opening must establish orientation and a reason to continue appropriate to the medium. A presentation may earn attention through relevance and clarity; a social cover may need stronger stop power. Do not import a stop-scroll rule into every medium.
-
-The ending should create a specific changed reading, felt residue, decision, or usable action. A framework, CTA, or slogan is optional, not a universal ending.
-
-## STORY deliverable
-
-- one-sentence governing experience;
-- truth ledger;
-- selected route and rejected alternative;
-- beat map;
-- first/last state;
-- visual opportunities and risks;
-- unresolved facts or decisions.
-
+Recommend one route and preserve the strongest alternative. Show enough of each route for the user to judge the actual experience, not only its title. Do not write the full article, post, or sequence before the governing route is shared when that choice is still consequential.

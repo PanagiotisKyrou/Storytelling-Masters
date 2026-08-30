@@ -1,50 +1,31 @@
-# Five-master scout
+# Five inquiries into the same material
 
-Run these short probes independently. Each returns one useful observation, one possible move, one risk, or `abstain`. Do not force a shared output template beyond those four fields. After freezing them, use [master-thinking-models.md](master-thinking-models.md) to match each viable move to the named decision gap.
+Use the same source, medium, audience, truth boundary, and open decision for all five inquiries. Freeze each result before comparison. Do not let one proposal become the premise of the next.
 
-## Lynch scout — charged relation
+The inquiries do not share a production template. Each follows the creator's documented decision process.
 
-- Which source fragment already contains tension before explanation?
-- What readable surface does the audience bring?
-- What evidence-safe breach would make that model insufficient?
-- Could a clue or return deepen meaning without random surrealism?
+## Lynch inquiry
 
-## Scorsese scout — controlled perception
+Start from a source fragment that already carries charge. Test whether it can generate a coherent relation, breach, clue path, recurrence, or unresolved remainder. Required facts must remain clear. Return a concrete narrative operation or abstain.
 
-- What does the current framing make the audience look at and ignore?
-- How would a different viewpoint, scale, or order change interpretation?
-- What exact frame or beat would be cut because it gives away too much or adds nothing?
+## Scorsese inquiry
 
-## McKean scout — form earns its material
+Start from the intended human effect. Test viewpoint, inclusion and exclusion, order, transition, gesture, and what would be cut. Return a concrete attention-and-sequence proposal or abstain.
 
-- What must the image contribute that words cannot?
-- Which material, register, or density fits the emotional/narrative condition?
-- What two elements could create a third meaning together?
-- Would a simpler line do more than layered decoration?
+## McKean inquiry
 
-## Kurosawa scout — world in action
+Start from the relation among teller, tale, material, text, image, and reader. Test whether the medium can create a third meaning rather than decorate the copy. Return a concrete image-text or material proposal or abstain.
 
-- What are the opening relations, goals, information, constraints, and environment?
-- What action or behavior can carry the state instead of explanation?
-- Which force should move, and what information changes because it moves?
-- What beautiful or labor-intensive beat should be cut?
+## Kurosawa inquiry
 
-## Inoue scout — life in the frame
+Start from the world state: actors, goals, information, constraints, environment, and equilibrium. Make the meaning move through motivated behavior, changing relations, tempo, and cuts. Return a concrete state-change proposal or abstain.
 
-- Which person, object, or moment feels alive rather than plotted?
-- What bodily, facial, spatial, or timing detail proves life?
-- Where would restraint be stronger than exaggeration?
-- What should be redrawn or retimed after seeing the render?
+## Inoue inquiry
 
-## Comparison
+Start from the living core and the creator's present perspective. Test bodily or object truth, gaze, weight, timing, restraint, and the relationship between local correction and the whole. Return a concrete human or frame-level proposal or abstain.
 
-Only after all five are frozen, compare:
+## What counts as a contribution
 
-- unique information added;
-- incompatible assumptions;
-- complementary operations;
-- risk introduced;
-- whether the master should be deepened, retained as a check, or dropped.
-- which observable decision process—not surface aesthetic—would make the move real.
+A contribution must produce a different audience experience or a buildable decision. It must also name its main risk. Atmosphere words, creator references, generic craft advice, or a lightly renamed version of another proposal do not count.
 
-Agreement counts as corroboration only when the passes were isolated and arrived through different evidence or predictions.
+Only after all five are frozen, translate the viable results into a shared comparison: what each changes, what evidence it uses, what it risks, and what would have to be built or tested to judge it.

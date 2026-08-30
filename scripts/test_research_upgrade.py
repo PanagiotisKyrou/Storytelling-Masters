@@ -54,23 +54,11 @@ class ResearchUpgradeTests(unittest.TestCase):
         self.assertIn("Disagreement boundary", mckean)
         self.assertIn("explicitly rejects generative AI", mckean)
 
-    def test_quarantined_regression_language_stays_quarantined(self):
-        phrase = "seven" + " pens"
-        allowed = {
-            Path("references/legacy-contamination-audit.md"),
-            Path("scripts/validate_run.py"),
-            Path("scripts/test_validate_run.py"),
-        }
-        offenders = []
-        for path in ROOT.rglob("*"):
-            if not path.is_file() or path.suffix not in {".md", ".py", ".yaml"}:
-                continue
-            rel = path.relative_to(ROOT)
-            if rel in allowed or rel == Path("scripts/test_research_upgrade.py"):
-                continue
-            if phrase in path.read_text(encoding="utf-8").lower():
-                offenders.append(str(rel))
-        self.assertEqual(offenders, [])
+    def test_entrypoint_does_not_claim_artistic_validation(self):
+        entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8").lower()
+        self.assertIn("do not prove artistic quality", entrypoint)
+        self.assertNotIn("full run", entrypoint)
+        self.assertNotIn("route automatically", entrypoint)
 
 
 if __name__ == "__main__":

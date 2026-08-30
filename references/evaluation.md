@@ -1,91 +1,28 @@
-# Evidence-backed evaluation
+# Evaluation without false authority
 
-Evaluation must observe the artifact. Process compliance and self-explanation are not quality evidence.
+Following a method proves only that the method was followed. It does not prove that the story, writing, or visual is good.
 
-## 1. Separate the trials
+## Compare outcomes
 
-### Truth trial
+- Compare proposals at the same level of development.
+- Hide master labels and reverse order when practical.
+- Include a straightforward non-master control when testing whether the masters add value.
+- Judge the actual words or rendered pixels, not prompts, explanations, or effort.
+- Treat the user's informed taste as decisive preference evidence.
+- Separate comprehension failure, factual error, accessibility failure, production defect, and taste.
 
-- claims match sources;
-- observation, inference, and invention are distinct;
-- temporal order is not presented as causation without evidence;
-- conceptual imagery does not masquerade as historical fact;
-- rights and attribution are respected.
+## Story evidence
 
-### Story trial
+Look for an earned change in understanding or feeling, specific source material, causal honesty, rhythm, and an ending that changes the reading. Reject routes that require a paragraph of explanation to prove they are interesting.
 
-- the entry and exit audience models differ in the intended way;
-- beats form a legible progression;
-- the turn or discovery is earned;
-- stakes and human consequences are proportionate;
-- the ending changes the reading, feeling, decision, or action.
+## Visual evidence
 
-### Frame trial
+Inspect actual-size frames and the sequence. Clean typography, correct dimensions, and consistent colors are minimum production competence, not a visual concept. A strong result must make the governing relation visible, use the medium deliberately, and feel specific to the subject.
 
-- hierarchy, composition, spacing, type, contrast, imagery, and accessibility survive the actual render;
-- the image has a story job beyond decoration;
-- text and image divide responsibility deliberately;
-- aesthetic choices fit the current brief, not an inherited template.
+## Verdict language
 
-### Sequence trial
+Use `viable`, `revise`, or `reject` for directions. Use `verified` only for facts or technical properties actually checked. Never describe a creative result as masterful, perfect, non-generic, or successful solely because a rubric was satisfied.
 
-- continuity and transformation are trackable;
-- rhythm varies with meaning;
-- repetition returns with a delta;
-- no filler or duplicated explanation survives;
-- first/last comparison produces the intended residue.
+## Development tests
 
-### Profile trial
-
-- voice and brand rules are sourced from the current profile;
-- personal or project-specific examples are not converted into universal rules;
-- rejected directions stay rejected unless the user changes them.
-
-### Production trial
-
-- source files open;
-- intended dimensions and formats are correct;
-- fonts/assets resolve;
-- export/render has no clipping, overflow, missing elements, or broken links;
-- corrections were re-rendered.
-
-## 2. Verdicts
-
-Use:
-
-- **PASS** — inspected evidence meets the declared criterion;
-- **REVISE** — a correctable failure has a named location and repair;
-- **BLOCKED** — required evidence or capability is absent;
-- **NOT APPLICABLE** — criterion genuinely does not apply.
-
-Never convert `BLOCKED` into `PASS` through confidence or explanation.
-
-## 3. Comparison tests
-
-When choosing between directions:
-
-- compare the same level of finish;
-- randomize or reverse order when practical;
-- preserve the strongest alternative;
-- judge against the brief, not against how much work each took;
-- distinguish preference feedback from factual/technical failure.
-
-## 4. Regression and held-out tests
-
-- A development case may teach a lesson but cannot also be the only validation case.
-- Keep contaminated historical cases quarantined and load them only for their named regression.
-- Use unrelated held-out cases to test transfer across story type and medium.
-- Do not reveal the expected answer before a held-out attempt is frozen.
-- A test that searches for required words proves structure only, not creative performance.
-
-## 5. Honest completion statement
-
-Report:
-
-- what was created;
-- what was rendered and inspected;
-- what changed after inspection;
-- what remains uncertain or unverified.
-
-Do not call the result perfect. Visual quality remains a judgment supported by evidence, not a certifiable state.
-
+A case used to create a rule cannot be the only test of that rule. Use materially different source types and mediums. Test the master route against a control without revealing the labels. If the master route does not create a visible improvement, remove the operation or keep the master out of that task.
