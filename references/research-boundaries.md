@@ -2,6 +2,16 @@
 
 The master dossiers are research-backed operational interpretations. They are not creator-authored formulas and must not be attributed as such.
 
+## Observable-process boundary
+
+A “thinking model” may describe only documented choices, working sequences, selection criteria, correction loops, and collaborator practices. Do not infer a personality type, clinical condition, hidden motive, permanent trait, or private mental state.
+
+- State what the source shows the creator noticing, doing, testing, accepting, or rejecting.
+- Label the skill's reusable decision process as `S`.
+- Preserve contradictions across projects and periods.
+- If a collaboration pattern or stopping rule is not established, write `not established`; do not complete the model by analogy.
+- Treat tacit phrases such as “feels correct,” “truth,” or “life” as prompts to define observable evidence for the current brief, not as proof by intuition.
+
 ## Evidence labels
 
 - **P — primary:** direct interview, essay, autobiography, official statement, or creator-authored note.
