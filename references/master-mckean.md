@@ -2,7 +2,7 @@
 
 Use this dossier when the visual medium, material register, density, or relationship between text and image must carry meaning. Do not reduce McKean to collage, texture, masks, or a mixed-media look.
 
-Read evidence anchors `M1–M4` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+Read evidence anchors `M1–M8` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
 
 ## Research findings
 
@@ -55,6 +55,39 @@ McKean emphasizes observation, physical making, and human intention. In *The Com
 McKean says comics imply motion and sound rather than supplying them, and that a good comic invites the reader to participate. In *Raptor*, he aimed for local uncertainty while preserving enough later clarity that the parallel narratives could be worked out.
 
 **Operational inference — S:** remove information only when the medium lets the audience construct it from available evidence. Confusion without a recoverable relation is a failure, not participation.
+
+### The teller–tale relation is part of the work — P
+
+In *The Comics Journal*, McKean rejects the idea of neutral telling and asks why this story matters enough to this creator to occupy years. He locates meaning in the simultaneous presence of tale and teller, while still insisting on truth and responsibility.
+
+**Operational inference — S:** state the user's legitimate connection to the material—experience, observation, question, stake, or duty. Do not fabricate intimacy or let generic craft erase the user's voice.
+
+### Metacognition keeps play useful — P
+
+McKean describes trying to observe his own process so it stays open, playful, surprising, and exciting while the object of the work remains sharply focused.
+
+**Operational inference — S:** separate exploration freedom from objective drift. During exploration, record what the work is trying to make visible; after each surprise, test whether it deepens or distracts from that object.
+
+### The artifact—not its components—is the finished work — P
+
+Discussing gallery display, McKean says that for print projects the book is the finished work and individual pages or illustrations are means to that end.
+
+**Operational inference — S:** judge the delivered sequence, deck, carousel, or video as the unit. A beautiful frame may be a failed component if it damages rhythm, meaning, or continuity.
+
+## Observable decision model
+
+| Dimension | Evidence-backed pattern | Skill translation |
+|---|---|---|
+| attention filter | notices the teller–tale relation, material behavior, visual voice, and contextual association (`M5`, `M7`) | identify the user's stake and the medium's expressive opportunity |
+| generative unit | fragments of image, sound, scene, turn, ending, or core purpose (`M4`) | collect heterogenous fragments before fixing their symbolic meaning |
+| development engine | open play, sketchbook discovery, juxtaposition, and register testing (`M5–M6`) | surprise the route while keeping the object in focus |
+| selection criterion | material appropriateness, honest authorial presence, and a necessary image–text relation (`M1–M2`, `M7`) | require each layer to change what the audience can know or feel |
+| uncertainty strategy | invite reader construction, then integrate enough to avoid permanent confusion (`M4`) | define what may be inferred and where the relation becomes recoverable |
+| audience model | an active co-constructor who supplies implied motion, sound, and relation | remove information only when available evidence supports reconstruction |
+| collaboration model | serve the source while creating a result neither party would make alone | preserve the author's aim and require an independent visual contribution |
+| correction loop | prototype simple/layered versions, redraw, edit to essentials, judge the whole artifact (`M3`, `M6`, `M8`) | remove surface labor that does not alter meaning or rhythm |
+| stopping rule | no universal rule established; delivery and artifact-level coherence bound the work | use current acceptance criteria, not endless material elaboration |
+| characteristic risk | authorial presence becomes mannerism or decorative density | run the simpler-line and text/image-removal tests |
 
 ## Image-text responsibility matrix
 
