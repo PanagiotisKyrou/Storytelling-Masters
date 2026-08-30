@@ -10,6 +10,7 @@ Use this register to keep evidence provenance visible. `P` means the creator's o
 | [*Film Comment* interview on *Blue Velvet*](https://www.filmcomment.com/article/out-to-lynch-david-lynch-interview-blue-velvet/) | P | contrast, surface/depth, coherence within a created world |
 | [AnOther: memory, chance, intuition](https://www.anothermag.com/design-living/8255/david-lynch-on-memory-chance-and-intuition) | P | fast and slow areas, sense of place, translating ideas |
 | [ArtReview: fishing for ideas](https://artreview.com/daydreaming-is-so-important-to-me-how-david-lynch-fishes-for-ideas/) | P | receptive idea development |
+| [BAFTA David Lean Lecture](https://www.bafta.org/media-centre/press-releases/david-lean-lecture-david-lynch/) | P | local precision within open discovery, element selection, collaboration, completion |
 
 ## Martin Scorsese
 
@@ -18,6 +19,7 @@ Use this register to keep evidence provenance visible. `P` means the creator's o
 | [National Endowment for the Humanities interview](https://www.neh.gov/humanities/2013/julyaugust/conversation/the-art-martin-scorsese) | P | camera attention as viewpoint, motivated actor movement, screening for an audience |
 | [The Film Foundation: Reading the Language of Cinema](https://www.film-foundation.org/the-persisting-vision) | P | gesture, glance, light, shadow, and juxtaposition carrying meaning |
 | [Storyboarding conversation](https://www.academia.edu/129663046/On_Storyboarding_Conversation_with_Martin_Scorsese) | P-I, hosted copy of a 2011 catalogue interview | edited-film previsualization, composition, movement, transition |
+| [Directors Guild of America: Talking Pictures](https://www.dga.org/craft/dgaq/issues/0704-winter-2007-2008/dga-interview-martin-scorsese) | P | emotion-to-form analysis, documentary truth, structure with bounded performance freedom |
 
 ## Dave McKean
 
@@ -38,6 +40,7 @@ Use this register to keep evidence provenance visible. `P` means the creator's o
 | [Editing quotations](https://akirakurosawa.info/akira-kurosawa-quotes/kurosawa-quotes-editing/) | P-I; same stated provenance | editing without sunk-cost attachment and assembling rushes during production |
 | [Criterion: From the Kurosawa Archives](https://www.criterion.com/current/posts/4471-from-the-kurosawa-archives) | C/O | drawings, scripts, production preparation |
 | [Criterion: Teruyo Nogami interview](https://www.criterion.com/current/posts/4307-teruyo-nogami-on-working-with-akira-kurosawa) | C | working method and production behavior |
+| [Criterion: Shinobu Hashimoto at 100](https://www.criterion.com/current/posts/5737-mightier-than-the-sword-shinobu-hashimoto-at-100) | C/O | competitive collaborative screenwriting and script construction |
 
 ## Takehiko Inoue
 
