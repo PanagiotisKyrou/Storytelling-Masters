@@ -12,11 +12,11 @@ class ResearchUpgradeTests(unittest.TestCase):
     def test_all_evidence_anchors_exist(self):
         ledger = (REFS / "master-evidence-ledger.md").read_text(encoding="utf-8")
         expected = {
-            "L": 4,
-            "S": 4,
-            "M": 4,
-            "K": 5,
-            "I": 4,
+            "L": 7,
+            "S": 7,
+            "M": 8,
+            "K": 8,
+            "I": 7,
         }
         for prefix, count in expected.items():
             for index in range(1, count + 1):
