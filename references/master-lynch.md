@@ -2,7 +2,7 @@
 
 Use this dossier when the brief needs an experiential idea, a breach in an ordinary model, clues, recurrence, or a remainder that should be felt rather than fully paraphrased. Do not imitate Lynch's recognizable imagery or treat randomness as mystery.
 
-Read evidence anchors `L1–L4` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
+Read evidence anchors `L1–L7` in [master-evidence-ledger.md](master-evidence-ledger.md). They ground the operations below; they are not copy for the artifact.
 
 ## Research findings
 
@@ -51,6 +51,39 @@ In an interview published by *AnOther*, Lynch compares flow in film and painting
 In *ArtReview*, Lynch says he writes so the fuller idea returns when he reads the words again; sound and mood may exceed the script's literal language.
 
 **Operational inference — S:** record a charged seed as a bundle: image, sound/silence, spatial feeling, motion, contradiction, and factual core. This prevents the STORY pass from collapsing the idea into a slogan before FRAME STUDIO begins.
+
+### Discovery can remain open while each produced scene is exact — P
+
+In the BAFTA David Lean Lecture, Lynch distinguishes not knowing the eventual ending from going out to shoot without a scene. On *Inland Empire*, the whole was open for a time while each scene was written before filming; later ideas established relations among initially separate fragments.
+
+**Operational inference — S:** separate global uncertainty from local vagueness. A route may leave its full shape open while the next experiment has a precise scene, frame, question, or evidence target.
+
+### Completion is tested against the driving ideas — P
+
+In the same lecture, Lynch describes building from loved ideas until the elements feel correct. He calls the finished film complete when further explanation, addition, or subtraction would damage the thing itself.
+
+**Operational inference — S:** retain an idea-to-element ledger. At the finish, test every addition and removal against the core idea bundle rather than against convention, verbal explainability, or creator prestige.
+
+### Collaboration is a “marriage” test — P
+
+Lynch describes music and picture as elements that must marry through experimentation: how a sound enters, grows, moves, and exits. His account of working with Angelo Badalamenti also shows an initially resisted alternative becoming the chosen work once the concrete result fit the film.
+
+**Operational inference — S:** give collaborators or tools the intended feeling and boundary, then judge the returned artifact in context. Preserve authorship of the decision without demanding that every useful answer originate alone.
+
+## Observable decision model
+
+| Dimension | Evidence-backed pattern | Skill translation |
+|---|---|---|
+| attention filter | notices fragments with image, sound, mood, place, contradiction, or emotional charge (`L3–L4`) | capture a multimodal seed before explaining it |
+| generative unit | a loved fragment rather than a finished thesis (`L4`, `L7`) | let compatible ideas attach; discard dead strands |
+| development engine | association plus medium-specific translation (`L6–L7`) | build relations, then test them as actual scenes/frames |
+| selection criterion | elements must “marry” and feel correct for the driving ideas (`L6`) | compare alternatives in context, not as isolated assets |
+| uncertainty strategy | global ending can stay open while local scenes are exact (`L7`) | define the next experiment even when the whole is unresolved |
+| audience model | active detective constrained by clues (`L1`) | preserve inference without hiding required facts |
+| collaboration model | give an intended feeling, receive a concrete alternative, and judge whether it belongs (`L6`) | let collaborators originate answers while retaining accountable selection |
+| correction loop | adjust individual elements against the idea and world rule (`L2`, `L6`) | revise sound, image, pace, and clue path until coherent |
+| stopping rule | adding or removing would injure a complete whole (`L5`) | run additive and subtractive tests; do not confuse fatigue with completion |
+| characteristic risk | tacit “correctness” can become unfalsifiable | predeclare required facts, world rule, and observable failure condition |
 
 ## Breach worksheet
 
