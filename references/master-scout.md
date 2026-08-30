@@ -1,6 +1,6 @@
 # Five-master scout
 
-Run these short probes independently. Each returns one useful observation, one possible move, one risk, or `abstain`. Do not force a shared output template beyond those four fields.
+Run these short probes independently. Each returns one useful observation, one possible move, one risk, or `abstain`. Do not force a shared output template beyond those four fields. After freezing them, use [master-thinking-models.md](master-thinking-models.md) to match each viable move to the named decision gap.
 
 ## Lynch scout — charged relation
 
@@ -45,6 +45,6 @@ Only after all five are frozen, compare:
 - complementary operations;
 - risk introduced;
 - whether the master should be deepened, retained as a check, or dropped.
+- which observable decision process—not surface aesthetic—would make the move real.
 
 Agreement counts as corroboration only when the passes were isolated and arrived through different evidence or predictions.
-
