@@ -38,6 +38,8 @@ Read [research-boundaries.md](references/research-boundaries.md) before using a 
 - Translate research into general craft operations.
 - Label direct creator evidence, collaborator/production evidence, observation, and skill synthesis separately.
 - Do not let a development case, brand example, or old visual become a universal rule.
+- Use [master-evidence-ledger.md](references/master-evidence-ledger.md) to verify quotations, source context, translation/hosting caveats, and use limits.
+- Keep creator quotations and names out of the user's artifact unless the user explicitly asks for them and they serve the work.
 
 ## Master exploration
 
