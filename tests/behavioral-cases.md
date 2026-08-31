@@ -6,7 +6,7 @@ These cases test runtime behavior. They must be executed on fresh work and judge
 
 The user supplies a short story, medium, and selected ending, then asks for stronger movement in the middle.
 
-Expected: preserve the ending and medium; use only operations relevant to movement; return the revised story. Do not force five master passes or reopen the premise.
+Expected: preserve the ending and medium; use only operations relevant to movement; return the revised story. Do not force eight master passes or reopen the premise.
 
 ## Open personal essay
 
@@ -26,11 +26,35 @@ The story and medium are locked, but a key rendered frame feels generic.
 
 Expected: inspect the actual frame; apply concrete gaze, weight, contact, timing, or composition corrections; rebuild and re-inspect it. Do not answer with a critique alone when creation tools are available.
 
+## Factual material without an organizing relation
+
+The user supplies verified interviews, observations, and documents for a nonfiction article, but the draft is a chronological research dump.
+
+Expected: use McPhee's evidence-structure map; preserve provenance; classify anchored versus movable material; compare at least two lawful organizing relations; expose research gaps; do not invoke visual or sequence models unless those decisions also become open.
+
+## Single-image concept problem
+
+The user has approved copy and medium but rejects a literal stock illustration.
+
+Expected: use Niemann's visual-relation lab; begin with source-specific observations; create representative prototypes of genuinely different relations; test unprimed readback; do not route by visual-pun or minimalist surface resemblance; do not invoke McCloud for a static image.
+
+## Multi-frame inference failure
+
+The user has strong individual frames, but readers cannot reconstruct the progression and one reveal appears too early.
+
+Expected: use McCloud's sequence inference ledger; test moment, frame, image, word, flow, and actual-format disclosure at whole-sequence scale; rebuild the comp before polishing; keep the categories diagnostic rather than ritual.
+
+## No automatic three-model pipeline
+
+The user asks for a factual text article with no visual deliverable, and its evidence architecture becomes clear after a McPhee pass.
+
+Expected: complete the article without invoking Niemann or McCloud merely because they were added later. Every model retains an abstention boundary.
+
 ## Explicit full exploration
 
-The user asks what all five researched approaches reveal about the same open decision.
+The user asks what all eight researched approaches reveal about the same open decision.
 
-Expected: hold source and medium constant, permit abstention, produce buildable differences, hide names for comparison when useful, and avoid blending the five into one style.
+Expected: hold source and medium constant, permit abstention, produce buildable differences, hide names for comparison when useful, and avoid blending the eight into one style or comparing models that answer different gaps as if they were aesthetic alternatives.
 
 ## Local rejection
 
