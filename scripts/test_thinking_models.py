@@ -13,6 +13,9 @@ MASTERS = {
     "mckean": "master-mckean.md",
     "kurosawa": "master-kurosawa.md",
     "inoue": "master-inoue.md",
+    "mcphee": "master-mcphee.md",
+    "niemann": "master-niemann.md",
+    "mccloud": "master-mccloud.md",
 }
 REQUIRED_DIMENSIONS = {
     "attention filter",
@@ -47,7 +50,7 @@ class ThinkingModelTests(unittest.TestCase):
         for name, filename in MASTERS.items():
             text, rows = parse_model(REFS / filename)
             self.assertEqual(set(rows), REQUIRED_DIMENSIONS, name)
-            anchored = sum(bool(re.search(r"`[LSMKI]\d", pattern)) for pattern, _ in rows.values())
+            anchored = sum(bool(re.search(r"`[LSMKIJNC]\d", pattern)) for pattern, _ in rows.values())
             self.assertGreaterEqual(anchored, 6, name)
             for dimension, (pattern, translation) in rows.items():
                 self.assertGreater(len(pattern), 20, (name, dimension))
@@ -67,7 +70,7 @@ class ThinkingModelTests(unittest.TestCase):
 
     def test_router_uses_decision_gaps_and_abstention(self):
         router = (REFS / "master-thinking-models.md").read_text(encoding="utf-8")
-        for master in ("Lynch", "Scorsese", "McKean", "Kurosawa", "Inoue"):
+        for master in ("Lynch", "Scorsese", "McKean", "Kurosawa", "Inoue", "McPhee", "Niemann", "McCloud"):
             self.assertRegex(router, rf"\|[^\n]+\| {master} \|")
         self.assertIn("decision_gap: We cannot yet decide", router)
         self.assertGreaterEqual(router.count("Abstain"), 1)
@@ -75,13 +78,15 @@ class ThinkingModelTests(unittest.TestCase):
         self.assertIn("not claims about personality", router)
 
     def test_stopping_rules_are_not_fabricated(self):
-        established = {"lynch"}
         for name, filename in MASTERS.items():
             _, rows = parse_model(REFS / filename)
             pattern, translation = rows["stopping rule"]
             combined = f"{pattern} {translation}".lower()
-            if name in established:
+            if name == "lynch":
                 self.assertIn("adding or removing", combined)
+            elif name == "mcphee":
+                self.assertIn("personal", combined)
+                self.assertTrue("not portable" in combined or "not a portable" in combined)
             else:
                 self.assertTrue(
                     "not established" in combined or "no universal" in combined or "no portable" in combined,
@@ -98,7 +103,16 @@ class ThinkingModelTests(unittest.TestCase):
         )
         for phrase in forbidden:
             self.assertNotIn(phrase, router)
-        for weak_trigger in ("dreamlike", "fast cuts", "collage", "samurai imagery", "manga linework"):
+        for weak_trigger in (
+            "dreamlike",
+            "fast cuts",
+            "collage",
+            "samurai imagery",
+            "manga linework",
+            "index cards",
+            "visual pun",
+            "speech balloons",
+        ):
             self.assertIn(weak_trigger, router)
         self.assertIn("do not route by surface resemblance", router)
 
@@ -108,11 +122,25 @@ class ThinkingModelTests(unittest.TestCase):
         for filename in MASTERS.values():
             self.assertIn(filename, entrypoint)
 
-    def test_routing_is_adaptive_not_a_five_pass_ritual(self):
+    def test_routing_is_adaptive_not_an_eight_pass_ritual(self):
         entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8").lower()
         scout = (REFS / "master-scout.md").read_text(encoding="utf-8").lower()
-        self.assertIn("do not run all five by default", scout)
-        self.assertIn("all five only when", entrypoint)
+        self.assertIn("do not run all eight by default", scout)
+        self.assertIn("all eight only when", entrypoint)
+        self.assertIn("do not run mcphee → niemann → mccloud as an automatic pipeline", (REFS / "master-thinking-models.md").read_text(encoding="utf-8").lower())
+
+    def test_new_overlaps_are_resolved_by_decision_order(self):
+        router = (REFS / "master-thinking-models.md").read_text(encoding="utf-8").lower()
+        self.assertIn("resolve overlaps by the earliest unresolved decision", router)
+        for pair in (
+            "mcphee / scorsese",
+            "niemann / mckean",
+            "mccloud / scorsese",
+            "mccloud / inoue",
+            "niemann / lynch",
+        ):
+            self.assertIn(pair, router)
+        self.assertIn("the second model is a residual check", router)
 
 
 if __name__ == "__main__":
