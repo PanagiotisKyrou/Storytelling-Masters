@@ -50,6 +50,35 @@ Use this register to keep evidence provenance visible. `P` means the creator's o
 | [Official film crew page](https://slamdunk-movie.jp/en/about/staff/) | P | creator roles and production responsibility |
 | [Film press kit](https://bigrednerd.com/wp-content/uploads/2023/06/slam_press-kit_2023-06-26_v2.pdf) | P/C, official distributor press material hosted by a third party | rough pillars, blueprint, changed perspective, paper texture, naturalism, hybrid technique, expression/timing correction, repeated pilots |
 
+## John McPhee
+
+| Source | Class | Supports |
+|---|---|---|
+| [“Structure,” *The New Yorker*](https://www.newyorker.com/magazine/2013/01/14/structure) | P | project-specific organizing principles, factual constraints, anchored/movable material, endings, completion |
+| [“Elicitation,” *The New Yorker*](https://www.newyorker.com/magazine/2014/04/07/elicitation) | P | open reporting, selection, research during drafting, quote boundaries, fairness |
+| [“Frame of Reference,” *The New Yorker*](https://www.newyorker.com/magazine/2015/03/09/frame-of-reference-john-mcphee) | P | audience knowledge, borrowed vividness, descriptive repayment |
+| [Princeton: “What I think: John McPhee”](https://www.princeton.edu/news/2017/09/18/what-i-think-john-mcphee) | P | externalized structure, subject discovery, observation, time |
+
+## Christoph Niemann
+
+| Source | Class | Supports |
+|---|---|---|
+| [The Creative Independent interview](https://thecreativeindependent.com/people/Illustrator-christoph-niemann-on-meeting-the-needs-of-your-client/) | P | idea over fixed style, functional evaluation, setup, abstraction, readback, editors, iteration, metrics boundary |
+| [*New Yorker*: “Wooster Street”](https://www.newyorker.com/culture/cover-story/cover-story-2021-02-08) | P | commissioned backward design versus hunch-led exploration |
+| [*New Yorker*: “Exit Strategy”](https://www.newyorker.com/culture/cover-story/cover-story-2021-08-30) | P | abstraction, visual metaphor, variants, hierarchy, atmosphere |
+| [Colossal interview](https://www.thisiscolossal.com/2023/03/interview-christoph-niemann/) | P | omission, viewer participation, distillation, designed surprise |
+| [52 Insights interview](https://www.52-insights.com/christoph-niemann-illustrating-the-world/) | P | expectation/twist, familiar objects, shared observation, audience completion |
+
+## Scott McCloud
+
+| Source | Class | Supports |
+|---|---|---|
+| *Making Comics* (2006), [bibliographic record](https://books.google.com/books/about/Making_Comics.html?id=uWQ6PwAACAAJ) | P / bibliographic | moment, frame, image, word, flow; clarity; visual-verbal craft |
+| [*The Believer* interview](https://www.thebeliever.net/an-interview-with-scott-mccloud/) | P | moment omission, page space/disclosure, word-image integration, rough comps, external readers, major revision, acknowledged critiques |
+| [Harvard Gazette lecture report](https://news.harvard.edu/gazette/story/2018/10/scott-mccloud-explains-the-serious-business-of-comics/) | P-I / institutional | two-way visual communication, pattern-finding, non-neutral visual choices |
+| [Official “Infinite Canvas” essay](https://scottmccloud.com/4-inventions/canvas/) | P | pacing, spatial form, navigation, reader needs, medium limitations |
+| [Official “Problem with Balance” journal entry](https://www.scottmccloud.com/2009/03/23/the-problem-with-balance/) | P | simultaneous page awareness and page-turn disclosure |
+
 ## Boundary
 
 These sources support craft operations, not imitation. The operational protocols in the dossiers are `S`: designed for this skill, challengeable, and subordinate to the current brief.
