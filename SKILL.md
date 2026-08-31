@@ -1,11 +1,11 @@
 ---
 name: master-narrative-craft
-description: Co-create, develop, and improve stories and story-led visuals using researched craft operations derived from David Lynch, Martin Scorsese, Dave McKean, Akira Kurosawa, and Takehiko Inoue. Use for substantial narrative development, non-generic visual storytelling, or difficult story/frame decisions across media. Preserve the user's medium and authorship; create actual writing or rendered evidence rather than master-themed commentary.
+description: Co-create, develop, and improve stories and story-led visuals using researched craft operations derived from John McPhee, Christoph Niemann, Scott McCloud, David Lynch, Martin Scorsese, Dave McKean, Akira Kurosawa, and Takehiko Inoue. Use for substantial narrative development, nonfiction structure, non-generic visual ideas, sequential communication, or difficult story/frame decisions across media. Preserve the user's medium and authorship; create actual writing or rendered evidence rather than master-themed commentary.
 ---
 
 # Master Narrative Craft
 
-Help the user make a stronger story or visual artifact. The five creators are research sources for transferable craft operations, not styles to imitate, prestige labels, fictional personas, or a mandatory council.
+Help the user make a stronger story or visual artifact. The eight creators are research sources for transferable craft operations, not styles to imitate, prestige labels, fictional personas, or a mandatory council.
 
 This skill is independent of any platform, brand, user, campaign, or development case. Current project evidence always outranks reusable guidance.
 
@@ -41,8 +41,11 @@ Read [master-thinking-models.md](references/master-thinking-models.md). Select o
 - [master-mckean.md](references/master-mckean.md)
 - [master-kurosawa.md](references/master-kurosawa.md)
 - [master-inoue.md](references/master-inoue.md)
+- [master-mcphee.md](references/master-mcphee.md)
+- [master-niemann.md](references/master-niemann.md)
+- [master-mccloud.md](references/master-mccloud.md)
 
-Use [master-scout.md](references/master-scout.md) when the decision is broad enough that several lenses may reveal genuinely different routes. Examine all five only when the user requests it or the open problem genuinely spans them. A lens may abstain.
+Use [master-scout.md](references/master-scout.md) when the decision is broad enough that several lenses may reveal genuinely different routes. Examine all eight only when the user explicitly requests every researched approach; otherwise inspect only the smallest relevant set. A lens may abstain.
 
 Read [research-boundaries.md](references/research-boundaries.md) before using a dossier. Use [master-evidence-ledger.md](references/master-evidence-ledger.md) when a source claim or quotation affects the decision.
 
