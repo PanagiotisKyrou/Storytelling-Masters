@@ -57,6 +57,32 @@ Primary/production sources: [Inoue's official statement](https://itplanning.co.j
 
 ## Validation boundary
 
-The research tests check evidence anchors, provenance boundaries, and whether the five documented decision models remain distinct. They do not certify story quality, visual quality, or successful transfer to a new brief.
+The research tests check evidence anchors, provenance boundaries, and whether the documented decision models remain distinct. They do not certify story quality, visual quality, or successful transfer to a new brief.
 
 Creative use must be tested against a straightforward control at comparable finish. The actual writing or rendered artifact—not a process record—decides whether a master-derived operation added value.
+
+## August 31 expansion: three missing decision systems
+
+The skill now includes three additional, independently routed models:
+
+### John McPhee
+
+McPhee adds factual source architecture: evidence inventory, anchored versus movable material, project-specific organizing relations, research gaps exposed during drafting, fair omission, reader orientation, and upstream ending checks. He does not become a universal “outline first” stage.
+
+Primary sources: [“Structure”](https://www.newyorker.com/magazine/2013/01/14/structure), [“Elicitation”](https://www.newyorker.com/magazine/2014/04/07/elicitation), [“Frame of Reference”](https://www.newyorker.com/magazine/2015/03/09/frame-of-reference-john-mcphee), and a [Princeton interview](https://www.princeton.edu/news/2017/09/18/what-i-think-john-mcphee).
+
+### Christoph Niemann
+
+Niemann adds visual-concept discovery before style: commissioned-backward versus exploratory-hunch search, ordinary source observation, truthful relations between visual domains, controlled abstraction, viewer inference, literal readback, and hierarchy after the idea works. The model explicitly rejects style imitation, pun generation, and reach as a craft score.
+
+Primary sources: [The Creative Independent](https://thecreativeindependent.com/people/Illustrator-christoph-niemann-on-meeting-the-needs-of-your-client/), [*The New Yorker* on commissioned and exploratory modes](https://www.newyorker.com/culture/cover-story/cover-story-2021-02-08), [*The New Yorker* on metaphor and hierarchy](https://www.newyorker.com/culture/cover-story/cover-story-2021-08-30), [Colossal](https://www.thisiscolossal.com/2023/03/interview-christoph-niemann/), and [52 Insights](https://www.52-insights.com/christoph-niemann-illustrating-the-world/).
+
+### Scott McCloud
+
+McCloud adds sequence and reader-inference design: moment, frame, image, word, and flow as diagnostic coordinates; deliberate omission; disclosure in the actual format; word–image integration; active reader construction; and whole-sequence comp revision. His categories remain provisional, comic-derived tools rather than universal laws.
+
+Primary and authoritative sources: *Making Comics* ([bibliographic record](https://books.google.com/books/about/Making_Comics.html?id=uWQ6PwAACAAJ)), [*The Believer* interview](https://www.thebeliever.net/an-interview-with-scott-mccloud/), [Harvard Gazette lecture report](https://news.harvard.edu/gazette/story/2018/10/scott-mccloud-explains-the-serious-business-of-comics/), and McCloud's official [“Infinite Canvas” essay](https://scottmccloud.com/4-inventions/canvas/).
+
+### Routing consequence
+
+There is no new McPhee → Niemann → McCloud pipeline. A factual article may use McPhee only; a single illustration may use Niemann only; a settled concept with weak progression may use McCloud only. The existing decision-gap router selects the smallest relevant set, and every model can abstain.
