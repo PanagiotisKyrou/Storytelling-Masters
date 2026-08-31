@@ -1,6 +1,6 @@
 # Storytelling Masters
 
-A research-backed, medium-independent co-creation skill for developing stories and story-led visuals through transferable craft operations derived from David Lynch, Martin Scorsese, Dave McKean, Akira Kurosawa, and Takehiko Inoue.
+A research-backed, medium-independent co-creation skill for developing stories and story-led visuals through transferable craft operations derived from John McPhee, Christoph Niemann, Scott McCloud, David Lynch, Martin Scorsese, Dave McKean, Akira Kurosawa, and Takehiko Inoue.
 
 The creators are research sources, not styles to imitate, prestige labels, fictional personas, or a mandatory council.
 
@@ -12,6 +12,14 @@ The creators are research sources, not styles to imitate, prestige labels, ficti
 - creates real passages, beat sequences, storyboard fragments, or rendered frame evidence;
 - asks for shared judgment only at consequential choices, then continues through routine production work;
 - judges the resulting artifact rather than rewarding research depth, process compliance, or famous names.
+
+## Three additional decision systems
+
+- **John McPhee** enters when truthful nonfiction material lacks a lawful organizing relation. He adds evidence mapping, anchored-versus-movable material, research-gap detection, fair omission, and reader orientation.
+- **Christoph Niemann** enters when the governing visual idea is absent, literal, decorative, or dependent on explanation. He adds source-specific visual relations, controlled abstraction, viewer inference, and unprimed readback.
+- **Scott McCloud** enters when a multi-unit work has the wrong moments, frames, word–image responsibilities, reading flow, disclosure, or inference bridges. His five choices are diagnostic coordinates, not a mandatory checklist.
+
+They do not form an automatic McPhee → Niemann → McCloud pipeline. The skill selects the smallest relevant model set and resolves overlaps by the earliest unresolved decision.
 
 ## Scope boundaries
 
