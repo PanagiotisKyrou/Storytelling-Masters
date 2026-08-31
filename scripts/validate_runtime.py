@@ -32,6 +32,9 @@ def validate() -> list[str]:
         "references/story-studio.md",
         "references/frame-studio.md",
         "references/evaluation.md",
+        "references/master-mcphee.md",
+        "references/master-niemann.md",
+        "references/master-mccloud.md",
     }
     for item in required:
         if item not in entry:
