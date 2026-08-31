@@ -1,6 +1,6 @@
 # Observable thinking models
 
-Use this reference after identifying the current creative decision gap. It translates the research into five distinct decision processes. These are models of observable craft choices, not claims about personality, private psychology, or a creator's mind outside the cited work.
+Use this reference after identifying the current creative decision gap. It translates the research into eight distinct decision processes. These are models of observable craft choices, not claims about personality, private psychology, or a creator's mind outside the cited work.
 
 ## Automatic routing
 
@@ -17,8 +17,23 @@ Then use the table below. Shortlist only the models that could change that decis
 | Words and images repeat one another, or material, density, and visual register feel arbitrary | McKean | image–text division, material job, register, density, or associative third meaning | exact exposition would become less clear or the material change has no narrative job |
 | Actions, motives, spatial relations, environment, tempo, or cuts do not form a coherent system | Kurosawa | state change, behavior, motivated movement, environmental function, or editorial cut | there is little action/state change and the value is primarily semantic openness |
 | People or embodied objects feel plotted, generic, physically false, or locally polished but globally dead | Inoue | character presence, bodily truth, natural timing, exact visual correction, or whole/local rebalance | the task is a purely abstract information system with no useful embodied layer |
+| Truthful nonfiction material exists but its organizing relation, evidence order, research gaps, references, or omissions remain unresolved | McPhee | an evidence-structure map, anchored/movable classification, organizing principle, or orientation repair | the source is fictional, already structured, or the problem is local wording rather than evidence architecture |
+| The visual idea is absent, literal, decorative, dependent on explanation, or built on untested shared knowledge | Niemann | a source-specific visual relation, setup/inference design, abstraction choice, or readback test | the visual relation is approved and the gap is execution, embodiment, material, or sequence |
+| A multi-unit work has the wrong moments, frames, images, words, flow, disclosure, or reader inference | McCloud | moment selection, frame boundary, word-image responsibility, flow, or inference repair | the work is a single static image or the sequence is settled and needs only production polish |
 
-Always keep `abstain` available. Start with the smallest set of models that can resolve the named decision gap. Widen to other models when the first route fails, when the decision spans several craft problems, or when the user asks for broader exploration. Do not force all five into routine work.
+Always keep `abstain` available. Start with the smallest set of models that can resolve the named decision gap. Widen to other models when the first route fails, when the decision spans several craft problems, or when the user asks for broader exploration. Do not force all eight into routine work and do not run McPhee → Niemann → McCloud as an automatic pipeline.
+
+## Resolve overlaps by the earliest unresolved decision
+
+| Apparent overlap | Route first | Route second only if |
+|---|---|---|
+| McPhee / Scorsese on order | McPhee when the factual organizing relation is not yet lawful | the evidence structure holds, but attention, disclosure, or emotional interpretation still fails |
+| Niemann / McKean on visuals | Niemann when the governing visual relation is absent or literal | the relation works, but material, density, or image–text responsibility remains arbitrary |
+| McCloud / Scorsese on sequence | McCloud when units, reading order, disclosure mechanics, or inference bridges are unclear | the sequence reads, but viewpoint and order still produce the wrong human effect |
+| McCloud / Inoue on frames | McCloud when the wrong moments or boundaries were selected | the moments are right, but bodies, timing, expression, or local life remain false |
+| Niemann / Lynch on omission | Niemann when the viewer must recognize a designed visual relation | the relation is intentionally experiential and needs an internally lawful remainder rather than a solved visual idea |
+
+The second model is a residual check, not another full performance. If the first model resolves the decision, stop routing and continue the work.
 
 ## Do not route by surface resemblance
 
@@ -29,10 +44,13 @@ Always keep `abstain` available. Start with the smallest set of models that can 
 | collage, texture, masks, or mixed media → McKean | material must carry a narrative, emotional, or reader-construction job |
 | weather, group motion, action, or samurai imagery → Kurosawa | the method begins with motive, state, environment, and a production problem |
 | manga linework, sports motion, brush texture, or exaggerated faces → Inoue | the useful model is character life, bodily truth, exact correction, and whole/local balance |
+| long-form, journalism, index cards, or outlines → McPhee | the model applies only when factual evidence needs a lawful organizing relation |
+| minimal drawing, visual pun, familiar objects, or magazine cover → Niemann | the model begins with a communication problem, source observation, and tested viewer inference |
+| comics, panels, speech balloons, or gutters → McCloud | the model applies when a sequential choice or reader bridge is actually unresolved |
 
 If the only routing evidence appears in the left column, run the scout but do not deepen the master yet.
 
-## Five distinct decision loops
+## Eight distinct decision loops
 
 ### Lynch — receive, associate, translate, complete
 
@@ -94,6 +112,42 @@ If the only routing evidence appears in the left column, run the scout but do no
 
 **Stopping boundary:** deadline completion is documented; a general artistic stopping rule is not. “Life” is a selection criterion only after it is translated into observable gaze, weight, timing, expression, and reaction checks.
 
+### McPhee — gather, classify, relate, orient
+
+1. Inventory the factual material and mark fact, supported inference, uncertainty, and forbidden invention.
+2. Separate components fixed by chronology, causality, place, or quotation context from components that can move.
+3. Find the person, process, place, contrast, encounter, question, or other relation that can organize the material.
+4. Compare at least two lawful structures when the choice materially changes the reading.
+5. Draft through the chosen structure and let composition expose missing research rather than concealing it.
+6. Test omissions for fairness and causal distortion; test references for borrowed knowledge.
+7. If the planned ending strains, look upstream for the point where the movement already completed.
+
+**Preserved tension:** factual material constrains structure, but it does not arrive with one inevitable order. An outline is a thinking aid, not permission to make reality fit.
+
+### Niemann — define, relate, strip, read back
+
+1. Choose the search mode: work backward from a fixed communication point or forward from an exploratory hunch.
+2. Harvest ordinary source-specific observations before reaching for generic visual symbols.
+3. Connect two visual domains only when they share a truthful structural relation.
+4. Establish the normal setup, the shift, and what the viewer must supply.
+5. Prototype at low cost and adjust abstraction, specificity, and emotional temperature.
+6. Ask unprimed viewers what they actually see; do not explain first.
+7. Refine hierarchy, atmosphere, and finish only after the relation survives readback.
+
+**Preserved tension:** omission can make the viewer an active participant, but only when the missing relation is recoverable. Cleverness, reach, and simplicity are not substitutes for truth or meaning.
+
+### McCloud — choose, connect, disclose, revise
+
+1. Name the reader change and the medium's actual unit of progression.
+2. Choose which moments must be shown and which can be inferred without false causality.
+3. Choose each frame's viewpoint, boundary, inclusion, and exclusion.
+4. Choose the image's level of specificity and the evidence it must carry.
+5. Assign words and images interacting or deliberately redundant responsibilities.
+6. Arrange flow and disclosure in the real delivery format, including what future units are already visible.
+7. Record the inference between units, test it with readers, and revise the whole comp before polishing frames.
+
+**Preserved tension:** moment, frame, image, word, and flow are diagnostic coordinates, not a mandatory checklist or a complete theory of cognition. Start at the decision that is failing.
+
 ## Thinking-fit record
 
 Keep this short internal record when a master-derived operation materially influences the work:
@@ -120,5 +174,10 @@ A master contributes only when the result changes a real decision or predicts an
 | Action is clear but emotionally mechanical | Kurosawa secures state and motive; Inoue corrects bodily and social truth |
 | Character moment is truthful but the sequence is shapeless | Inoue protects the living beat; Scorsese builds order and transition |
 | Mystery is intriguing but causally dishonest | Lynch defines permitted uncertainty; Kurosawa tests state, motive, and consequence |
+| Factual material is rich but the story is a pile of research | McPhee governs evidence architecture; Scorsese may shape disclosure after the facts have a lawful relation |
+| The image repeats the idea literally and material choices are premature | Niemann governs the visual relation; McKean assigns material and image–text jobs only after the concept works |
+| Strong individual frames do not create a readable sequence | McCloud governs moment, flow, and inference; Inoue may correct embodied life inside the selected beats |
+| A sequence is clear but visually generic at its governing concept | Niemann finds the source-specific relation; McCloud preserves it through moments, frames, and transitions |
+| A nonfiction visual sequence is attractive but evidence order is misleading | McPhee secures factual structure; McCloud tests what each transition asks the reader to infer |
 
 Do not merge all protocols. Preserve one governing logic and use any other model as a named secondary check.
