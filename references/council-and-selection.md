@@ -9,6 +9,7 @@ Use this reference only when several credible creative routes remain and choosin
 - Include a straightforward non-master control when it can test whether the master-derived work adds value.
 - Develop routes to comparable depth. For visual decisions, use comparable rendered evidence.
 - Hide creator names during judgment when practical.
+- Do not compare source architecture, visual concept, and sequence repair as though they were alternative styles. They answer different decision gaps and may occur at different moments.
 
 Compare the actual experience and artifact rather than descriptions of the approaches. Relevant criteria may include truth, audience value, voice, causal honesty, medium use, specificity, human credibility, image-text relation, accessibility, aesthetic coherence, and production feasibility.
 
