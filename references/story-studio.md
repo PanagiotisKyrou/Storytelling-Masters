@@ -1,26 +1,47 @@
-# Story exploration
+# Story co-creation
 
-Use this reference when the open decision is how to tell the material. The result is a co-creation handoff, not finished copy unless the user has already chosen a direction and explicitly asks for the draft.
+Use this reference when creating or substantially revising a story, argument, narrative explanation, scene, article, sequence, or other story-led work.
 
-## Ground the material
+## Establish the present decision
 
-Separate observed or supplied facts, supported inference, uncertainty, and forbidden invention. Identify the audience's current model, the intended change, the practical or emotional stake, and the part that must be experienced rather than explained.
+Separate supplied facts, supported inference, uncertainty, and forbidden invention. Preserve the requested medium and identify:
 
-Harvest source-specific material before creating metaphors: actions, decisions, contradictions, objects, environments, exact language, consequences, missing evidence, and the creator's legitimate connection to the subject.
+- what the work must accomplish;
+- the audience or receiver's starting position;
+- the change or experience the work should earn;
+- what has already been selected;
+- the exact story decision still open, if any.
 
-## Explore
+Harvest source-specific material before introducing metaphors or frameworks: actions, decisions, contradictions, objects, environments, language, consequences, omissions, and the creator's legitimate connection to the subject.
 
-Run the five inquiries. Let routes differ in narrative operation—not merely tone, wording, or surface imagery. A route should make clear:
+## Choose how much exploration is useful
 
-- what the audience encounters first;
-- what develops or accumulates;
+- If the governing direction is already clear, create the requested draft directly.
+- If one consequential decision is open, use the relevant master operation to develop enough real material for the user to judge it.
+- If several credible routes exist, use [council-and-selection.md](council-and-selection.md). Do not create alternatives merely to simulate co-creation.
+
+A meaningful route changes audience experience, causal interpretation, viewpoint, ordering, pressure, revelation, emotional relation, or ending. Different wording around the same path is not a different route.
+
+## Develop the story
+
+Make the movement concrete:
+
+- what the receiver encounters first;
+- what develops, accumulates, or becomes unstable;
 - what changes the reading;
-- what remains, resolves, or becomes actionable;
-- what the selected medium contributes;
-- what the route risks distorting or inventing.
+- why one beat leads to the next;
+- what resolves, remains, or becomes actionable;
+- what the selected medium contributes.
 
-Do not enforce a fixed number. Stop when the remaining proposals are duplicates or weaker variations.
+When the user selects or corrects the governing direction, produce the complete requested writing unless another consequential authorship decision appears. Continue through ordinary editing, source checks, rhythm work, and consistency correction without repeatedly asking for approval.
 
-## Handoff
+## Failure conditions
 
-Recommend one route and preserve the strongest alternative. Show enough of each route for the user to judge the actual experience, not only its title. Do not write the full article, post, or sequence before the governing route is shared when that choice is still consequential.
+- The master analysis is more developed than the story.
+- A framework replaces lived or causal movement.
+- A story device replaces the actual subject or purpose.
+- Invented reactions, dialogue, motives, or outcomes create false credibility.
+- The output requires a master name or explanatory paragraph to seem interesting.
+- A local correction from another project determines this story.
+
+Return the story itself. Explain the craft process only when it helps the user make the next real decision.

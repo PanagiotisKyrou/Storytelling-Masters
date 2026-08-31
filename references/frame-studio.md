@@ -1,31 +1,41 @@
-# Visual exploration and repair
+# Visual co-creation and production
 
-Use this reference when the open decision is visual: how a story should become a frame or sequence, or why an existing frame feels generic or false.
+Use this reference when creating or substantially repairing a frame, illustration, storyboard, sequence, slide, visual essay, or other story-led visual work.
 
-## Preserve the brief
+## Preserve what governs the visual
 
-The medium, story, exact factual claims, established series decisions, and user-supplied references are constraints. Do not introduce another format or replace the story with a visual trick.
+The chosen medium, story, factual claims, approved references, accessibility needs, and established project decisions are constraints. A visual treatment must not change them silently.
 
-## Create visual evidence
+State the visual decision gap: what must become visible that words alone cannot carry? Examples include a relation, state change, action, contradiction, accumulation, absence, scale, viewpoint, human moment, or consequence.
 
-Run the five inquiries on the same material. Each viable proposal must specify a buildable relation: viewpoint, composition, action, image-text division, material behavior, rhythm, human detail, or continuity.
+Read [master-thinking-models.md](master-thinking-models.md) and use only the operations that can change that visual decision. Do not imitate recognizable creator styles.
 
-When a direction cannot be judged in prose, create a representative prototype at the intended dimensions. A prototype should include the hardest or most identity-bearing frame, not only an easy cover. Use actual rendered pixels, not a mood board or prompt description.
+Read only the relevant section of [medium-modules.md](medium-modules.md) when the deliverable needs medium-specific production or inspection constraints.
 
-Do not create the complete sequence until the user has selected the visual world, unless the user explicitly delegates that choice or an established approved design system already settles it.
+## Produce evidence at the right scale
 
-## Inspect without excuses
+If an approved visual system already resolves the direction, use it and continue into production.
 
-Judge the rendered artifact:
+If the visual world is new or materially changing:
 
-- Does the eye find the intended relation first?
-- Does the image contribute meaning the text does not?
-- Is the composition specific to this subject or merely clean?
-- Are bodies, objects, materials, perspective, lighting, and typography credible?
-- Does it remain legible at actual feed or viewing size?
-- Does the visual system support the story rather than replace it?
-- Would the result still seem strong without the explanation or master name?
+- create representative rendered evidence at the intended dimensions;
+- use real copy and real content;
+- include the hardest or most identity-bearing frame when an easy cover would conceal the risk;
+- add another prototype only when it tests a meaningfully different visual relation.
 
-Classify a problem correctly: local correction, frame rebuild, or return to the governing direction. Cosmetic polish cannot repair a weak visual idea.
+Let the user select or correct the visual world unless that decision was explicitly delegated. Then create the remaining artifact without asking for approval after every mechanical step.
 
-After the user selects a direction, hand the locked prototype, decisions, and risks to the relevant production skill. Full production must render and inspect every frame and the sequence, but it need not request approval for routine mechanical corrections.
+## Inspect the result, not the prompt
+
+Inspect every important frame at actual size and the complete sequence at overview size.
+
+- Does the eye encounter the intended relation first?
+- Does the image contribute meaning rather than decorate or duplicate the copy?
+- Are viewpoint, scale, spacing, material, light, color, type, and continuity doing subject-specific work?
+- Are bodies, objects, materials, text, perspective, and lighting credible?
+- Does the sequence change rather than repeat one poster composition?
+- Would the result remain convincing without its explanation or master label?
+
+Classify a problem as a local correction, frame rebuild, or failed governing direction. Cosmetic polish cannot repair a weak visual idea. Re-render after material changes and inspect the new pixels.
+
+If visual creation or inspection is unavailable, return an explicitly unrendered production specification. Never present a prompt, mood board, contact sheet of mismatched images, or technical checklist as a finished visual artifact.

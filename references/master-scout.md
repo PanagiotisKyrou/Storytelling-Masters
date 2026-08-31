@@ -1,6 +1,8 @@
-# Five inquiries into the same material
+# Broad craft inquiry
 
-Use the same source, medium, audience, truth boundary, and open decision for all five inquiries. Freeze each result before comparison. Do not let one proposal become the premise of the next.
+Use this reference when the open decision is broad enough that several craft lenses could reveal materially different routes. Give every inquiry the same source, medium, audience, truth boundary, and open decision. Freeze a result before comparing it with another; do not let one proposal quietly become the premise of the next.
+
+Do not run all five by default. Start from the decision-gap router in [master-thinking-models.md](master-thinking-models.md). Use all five only when the user requests a full exploration or when the decision genuinely spans all five problem families.
 
 The inquiries do not share a production template. Each follows the creator's documented decision process.
 
@@ -28,4 +30,4 @@ Start from the living core and the creator's present perspective. Test bodily or
 
 A contribution must produce a different audience experience or a buildable decision. It must also name its main risk. Atmosphere words, creator references, generic craft advice, or a lightly renamed version of another proposal do not count.
 
-Only after all five are frozen, translate the viable results into a shared comparison: what each changes, what evidence it uses, what it risks, and what would have to be built or tested to judge it.
+Only after the selected inquiries are frozen, translate viable results into a shared comparison: what each changes, what evidence it uses, what it risks, and what would have to be built or tested to judge it. Do not expose master names when they would bias the choice or distract from the work.

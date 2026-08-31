@@ -1,7 +1,9 @@
 interface:
   display_name: Master Narrative Craft
-  short_description: Explore distinct story and visual directions
-  default_prompt: Use $master-narrative-craft to explore genuinely different story or visual directions with me. Keep the medium fixed and stop before full production so I can choose the governing direction.
+  short_description: Co-create stronger stories and visual narratives
+  default_prompt: Use $master-narrative-craft to co-create this story or visual narrative
+    with me, using the researched craft operations that genuinely improve the open
+    decision.
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
@@ -10,4 +12,4 @@ policy:
   - codex
   - api
   - atlas
-  allow_implicit_invocation: false
+  allow_implicit_invocation: true

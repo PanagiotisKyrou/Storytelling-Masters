@@ -1,39 +1,40 @@
 ---
 name: master-narrative-craft
-description: Explore and strengthen story or visual directions with five researched craft lenses when the user explicitly asks to use the storytelling masters, compare narrative approaches, or escape a generic treatment. Co-create choices and representative prototypes; do not choose the medium or autonomously finish a publishing artifact.
+description: Co-create, develop, and improve stories and story-led visuals using researched craft operations derived from David Lynch, Martin Scorsese, Dave McKean, Akira Kurosawa, and Takehiko Inoue. Use for substantial narrative development, non-generic visual storytelling, or difficult story/frame decisions across media. Preserve the user's medium and authorship; create actual writing or rendered evidence rather than master-themed commentary.
 ---
 
 # Master Narrative Craft
 
-Use the researched practices of David Lynch, Martin Scorsese, Dave McKean, Akira Kurosawa, and Takehiko Inoue to expose materially different ways of telling or visualizing the same source. This is a creative exploration room, not an autonomous production pipeline and not a claim that generated work resembles or reaches the standard of those creators.
+Help the user make a stronger story or visual artifact. The five creators are research sources for transferable craft operations, not styles to imitate, prestige labels, fictional personas, or a mandatory council.
 
-## Authority and scope
+This skill is independent of any platform, brand, user, campaign, or development case. Current project evidence always outranks reusable guidance.
 
-The current user brief, source truth, chosen medium, audience, voice, brand, and production reality outrank every master-derived suggestion.
+## Keep three scopes separate
 
-- Never choose or change the medium unless the user delegates that decision explicitly.
-- Never continue from exploration into a complete article, carousel, deck, image sequence, or video before the user selects the governing direction.
-- Do not imitate recognizable styles or use a creator's name to confer prestige on ordinary output.
-- Do not claim that a result is “Lynchian,” “Scorsese-like,” or worthy of a master because a checklist was followed.
-- Keep case examples out of the reusable method. A development case is evidence about that run, not doctrine.
+1. **Core craft:** sourced master research and reusable operations.
+2. **Current collaborator:** voice, taste, accessibility, and working preferences supported by current evidence.
+3. **Current work:** its facts, medium, decisions, references, experiments, and rejections.
 
-Read [research-boundaries.md](references/research-boundaries.md) before using the dossiers. Use [master-evidence-ledger.md](references/master-evidence-ledger.md) to verify what is sourced and what is skill synthesis.
+Never promote a correction or example from the current work into the collaborator model or core craft unless the user explicitly generalizes it or independent unrelated evidence supports the change. Read [collaboration-state.md](references/collaboration-state.md) when the work spans several decisions or turns.
 
-## Lock only what the user has actually decided
+## Co-create without taking over
 
-Before exploration, record internally:
+Automate research, source sorting, option discovery, craft analysis, drafting, rendering, inspection, and routine revision. Preserve user authorship over decisions that materially change the meaning, factual interpretation, medium, story direction, or visual world.
 
-- supplied facts, supported inferences, unknowns, and forbidden invention;
-- the exact creative decision still open;
-- the user-selected medium and relevant constraints;
-- the audience's current understanding and the intended change;
-- established project references and explicit rejections.
+- Treat established decisions as locked until the user reopens them.
+- Ask only when plausible answers would lead to materially different work.
+- When a creative decision remains open, provide enough actual material to judge it: a passage, beat sequence, storyboard fragment, or rendered frame.
+- Surface alternatives only when they expose a real tradeoff. Do not manufacture a fixed menu or ritual candidate count.
+- Once the user selects or corrects a direction, continue through reversible production work until another consequential decision appears or the artifact is complete.
+- A brief approval such as `go` accepts only the direction currently under discussion. It does not authorize a new medium, thesis, story, or visual world.
 
-If the medium or intended deliverable is not known and different choices would materially change the work, ask one direct question. Do not silently select a format.
+## Route research into the present decision
 
-## Five independent inquiries
+Before using a master, state internally:
 
-When the user asks to use the masters, give all five the same locked material. Read [master-scout.md](references/master-scout.md), then the relevant dossiers:
+`decision_gap: We cannot yet decide ______ because ______.`
+
+Read [master-thinking-models.md](references/master-thinking-models.md). Select only the operations capable of changing that decision. Read the corresponding dossier when deeper guidance or evidence is needed:
 
 - [master-lynch.md](references/master-lynch.md)
 - [master-scorsese.md](references/master-scorsese.md)
@@ -41,36 +42,22 @@ When the user asks to use the masters, give all five the same locked material. R
 - [master-kurosawa.md](references/master-kurosawa.md)
 - [master-inoue.md](references/master-inoue.md)
 
-Freeze each inquiry before comparison. Use isolated contexts only when genuinely available and authorized; otherwise describe the passes honestly as sequential, not independent corroboration. A master may abstain when its documented process cannot improve the open decision.
+Use [master-scout.md](references/master-scout.md) when the decision is broad enough that several lenses may reveal genuinely different routes. Examine all five only when the user requests it or the open problem genuinely spans them. A lens may abstain.
 
-Each surviving inquiry must change something buildable: the audience path, ordering, viewpoint, action, image-text relation, material behavior, human detail, or another concrete decision. Renaming the brief, adding atmosphere, or repeating generic advice is not a contribution.
+Read [research-boundaries.md](references/research-boundaries.md) before using a dossier. Use [master-evidence-ledger.md](references/master-evidence-ledger.md) when a source claim or quotation affects the decision.
 
-## Compare without prestige bias
+## Make, do not merely advise
 
-Use [council-and-selection.md](references/council-and-selection.md).
+For story creation or revision, read [story-studio.md](references/story-studio.md). Produce the requested writing after the governing direction is selected or already clear.
 
-- Preserve a straightforward non-master reading as a control when evaluating whether the master work adds value.
-- Hide master names during quality comparison when practical.
-- Compare proposals at the same level of finish.
-- State the recommendation, strongest alternative, and real tradeoff.
-- Do not blend all five into “master soup.”
+For visual creation or repair, read [frame-studio.md](references/frame-studio.md). When visual judgment matters, create representative rendered evidence at the intended dimensions. A prompt, mood board, design explanation, or clean layout is not a visual result.
 
-If the choice depends on visual evidence, create only enough representative, rendered prototypes to make the decision real. Inspect the pixels. A prompt, mood board, or prose specification is not a visual result.
+Use [council-and-selection.md](references/council-and-selection.md) only when several credible routes require comparison. Keep a straightforward non-master control when it can reveal whether a master-derived operation adds value.
 
-## Co-creation handoff
+## Judge the artifact
 
-At the end of exploration, return:
+Read [evaluation.md](references/evaluation.md). Judge actual words, frames, and sequences—not research depth, process compliance, famous names, or self-explanation.
 
-- the strongest developed direction;
-- the strongest meaningfully different alternative;
-- the evidence and tradeoff separating them;
-- any factual or production risk;
-- the decision that belongs to the user.
+Research can justify trying an operation. It cannot prove that the resulting work is good. User correction, blind comparison, rendered evidence, comprehension testing, and real-world response are the evidence that can retain or reject an operation.
 
-Pause there. Once the user chooses, the relevant publishing or production skill may continue. Do not ask for approval after routine mechanical steps.
-
-For story exploration, read [story-studio.md](references/story-studio.md). For visual exploration or repair, read [frame-studio.md](references/frame-studio.md). For evaluation, read [evaluation.md](references/evaluation.md).
-
-## Completion honesty
-
-Research provenance and process discipline do not prove artistic quality. A result earns confidence only through the actual writing, rendered frames, comparisons, and user judgment. Report limitations plainly; never certify taste or perfection.
+Return the requested artifact and the shortest useful note about unresolved truth or production limits. Do not attach master reports, matrices, or self-scores unless the user asks for them.

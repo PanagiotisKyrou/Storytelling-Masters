@@ -104,8 +104,15 @@ class ThinkingModelTests(unittest.TestCase):
 
     def test_thinking_models_are_discoverable(self):
         entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8")
+        self.assertIn("master-thinking-models.md", entrypoint)
         for filename in MASTERS.values():
             self.assertIn(filename, entrypoint)
+
+    def test_routing_is_adaptive_not_a_five_pass_ritual(self):
+        entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8").lower()
+        scout = (REFS / "master-scout.md").read_text(encoding="utf-8").lower()
+        self.assertIn("do not run all five by default", scout)
+        self.assertIn("all five only when", entrypoint)
 
 
 if __name__ == "__main__":

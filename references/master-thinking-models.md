@@ -1,6 +1,6 @@
 # Observable thinking models
 
-Use this reference after the brief lock and five short scouts. It translates the research into five distinct decision processes. These are models of observable craft choices, not claims about personality, private psychology, or a creator's mind outside the cited work.
+Use this reference after identifying the current creative decision gap. It translates the research into five distinct decision processes. These are models of observable craft choices, not claims about personality, private psychology, or a creator's mind outside the cited work.
 
 ## Automatic routing
 
@@ -18,7 +18,7 @@ Then use the table below. Shortlist only the models that could change that decis
 | Actions, motives, spatial relations, environment, tempo, or cuts do not form a coherent system | Kurosawa | state change, behavior, motivated movement, environmental function, or editorial cut | there is little action/state change and the value is primarily semantic openness |
 | People or embodied objects feel plotted, generic, physically false, or locally polished but globally dead | Inoue | character presence, bodily truth, natural timing, exact visual correction, or whole/local rebalance | the task is a purely abstract information system with no useful embodied layer |
 
-Always keep `abstain` available. Run all five scouts to expose missed options; deepen only the models that can resolve a named decision gap.
+Always keep `abstain` available. Start with the smallest set of models that can resolve the named decision gap. Widen to other models when the first route fails, when the decision spans several craft problems, or when the user asks for broader exploration. Do not force all five into routine work.
 
 ## Do not route by surface resemblance
 
@@ -96,7 +96,7 @@ If the only routing evidence appears in the left column, run the scout but do no
 
 ## Thinking-fit record
 
-Keep this short internal record for every master you deepen:
+Keep this short internal record when a master-derived operation materially influences the work:
 
 ```yaml
 decision_gap: ""

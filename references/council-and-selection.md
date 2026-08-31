@@ -1,34 +1,21 @@
-# Comparison and selection
+# Comparative exploration
 
-The council exists to widen the decision before commitment. It is not a vote, a ritual number of candidates, or a guarantee of quality.
+Use this reference only when several credible creative routes remain and choosing among them would materially change the work.
 
-## Before comparison
+## Build comparable evidence
 
-- Keep a straightforward reading of the source available as a control.
+- Preserve the same source truth, medium, audience, and constraints across routes.
 - Remove duplicate proposal families even when they use different master vocabulary.
-- Drop any contribution that cannot predict an observable change in the story or artifact.
-- Keep master names hidden during quality judgment when practical; prestige must not decide.
+- Include a straightforward non-master control when it can test whether the master-derived work adds value.
+- Develop routes to comparable depth. For visual decisions, use comparable rendered evidence.
+- Hide creator names during judgment when practical.
 
-## Compare the actual decisions
+Compare the actual experience and artifact rather than descriptions of the approaches. Relevant criteria may include truth, audience value, voice, causal honesty, medium use, specificity, human credibility, image-text relation, accessibility, aesthetic coherence, and production feasibility.
 
-Use criteria relevant to the current brief:
+Do not total a universal score. Identify the tradeoff that matters for this work.
 
-- fidelity to supplied facts and causal limits;
-- usefulness to the intended audience;
-- strength and honesty of the audience change;
-- fit with the selected medium;
-- voice and brand fit;
-- image-text division of labor for visual work;
-- specificity, human credibility, and aesthetic coherence;
-- production feasibility and accessibility;
-- value added over the straightforward control.
+## Co-creation handoff
 
-Do not total a score. State the tradeoff that decides the recommendation.
+Show only the routes that create a meaningful choice. A single strong proposal may be the honest result; several may remain when the tradeoff is real.
 
-## Prototype only when necessary
-
-If prose comparison cannot resolve a visual choice, build comparable representative prototypes at the intended dimensions. Use the same degree of finish. Inspect them without master labels. Do not build the full sequence before the user chooses a visual direction.
-
-## Handoff
-
-Return a recommendation and the strongest genuinely different alternative. Explain what each makes possible and what each sacrifices. The user selects, combines deliberately, or sends the exploration back. Once selected, preserve that direction through production unless rendered evidence invalidates it.
+Provide enough actual material for the user to select, combine deliberately, correct, or reject. Once a governing direction is selected, preserve it through creation unless new evidence invalidates it.

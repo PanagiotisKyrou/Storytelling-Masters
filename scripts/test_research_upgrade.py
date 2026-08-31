@@ -54,11 +54,10 @@ class ResearchUpgradeTests(unittest.TestCase):
         self.assertIn("Disagreement boundary", mckean)
         self.assertIn("explicitly rejects generative AI", mckean)
 
-    def test_entrypoint_does_not_claim_artistic_validation(self):
+    def test_entrypoint_keeps_research_and_quality_evidence_separate(self):
         entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8").lower()
-        self.assertIn("do not prove artistic quality", entrypoint)
-        self.assertNotIn("full run", entrypoint)
-        self.assertNotIn("route automatically", entrypoint)
+        self.assertIn("cannot prove that the resulting work is good", entrypoint)
+        self.assertIn("actual words, frames, and sequences", entrypoint)
 
 
 if __name__ == "__main__":

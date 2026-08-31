@@ -1,28 +1,28 @@
-# Evaluation without false authority
+# Artifact-based evaluation
 
-Following a method proves only that the method was followed. It does not prove that the story, writing, or visual is good.
+Following the method proves only that the method was followed. Evaluate the actual writing, rendered frames, or complete sequence.
 
-## Compare outcomes
+## Separate the questions
 
-- Compare proposals at the same level of development.
-- Hide master labels and reverse order when practical.
-- Include a straightforward non-master control when testing whether the masters add value.
-- Judge the actual words or rendered pixels, not prompts, explanations, or effort.
-- Treat the user's informed taste as decisive preference evidence.
-- Separate comprehension failure, factual error, accessibility failure, production defect, and taste.
+- **Truth:** Are facts, causes, quotations, and lived claims supported?
+- **Comprehension:** Can the intended receiver reconstruct the necessary meaning?
+- **Story:** Does the work earn a change in understanding, feeling, relation, or action?
+- **Visual:** Does the visual make a subject-specific relation visible and use its medium deliberately?
+- **Production:** Is the artifact technically correct, legible, accessible, and complete?
+- **Taste:** Does the informed user prefer this treatment for the work?
 
-## Story evidence
+One category cannot compensate for another. Technical correctness does not prove aesthetic quality; novelty does not prove usefulness; user taste does not make an unsupported factual claim true.
 
-Look for an earned change in understanding or feeling, specific source material, causal honesty, rhythm, and an ending that changes the reading. Reject routes that require a paragraph of explanation to prove they are interesting.
+## Test master contribution
 
-## Visual evidence
+When validating a master-derived operation:
 
-Inspect actual-size frames and the sequence. Clean typography, correct dimensions, and consistent colors are minimum production competence, not a visual concept. A strong result must make the governing relation visible, use the medium deliberately, and feel specific to the subject.
+- compare it with a straightforward control at equal development;
+- hide labels and reverse order when practical;
+- judge the actual artifact rather than the rationale;
+- identify the observable decision or experience added by the operation;
+- retain the operation only when it improves unrelated work, not merely the case that inspired it.
 
-## Verdict language
+Treat user correction as decisive preference evidence for the current work. Treat real audience response as evidence about that audience and context, not as a universal creative law.
 
-Use `viable`, `revise`, or `reject` for directions. Use `verified` only for facts or technical properties actually checked. Never describe a creative result as masterful, perfect, non-generic, or successful solely because a rubric was satisfied.
-
-## Development tests
-
-A case used to create a rule cannot be the only test of that rule. Use materially different source types and mediums. Test the master route against a control without revealing the labels. If the master route does not create a visible improvement, remove the operation or keep the master out of that task.
+Use `viable`, `revise`, or `reject` for creative directions. Use `verified` only for facts or technical properties actually checked. Never certify work as masterful, perfect, distinctive, or successful from process compliance or a self-score.
