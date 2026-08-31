@@ -17,6 +17,9 @@ class ResearchUpgradeTests(unittest.TestCase):
             "M": 8,
             "K": 8,
             "I": 7,
+            "J": 8,
+            "N": 9,
+            "C": 9,
         }
         for prefix, count in expected.items():
             for index in range(1, count + 1):
@@ -29,6 +32,9 @@ class ResearchUpgradeTests(unittest.TestCase):
             "master-mckean.md": "## Image-text responsibility matrix",
             "master-kurosawa.md": "## State vector",
             "master-inoue.md": "## Life pass",
+            "master-mcphee.md": "## Evidence-structure map",
+            "master-niemann.md": "## Visual relation lab",
+            "master-mccloud.md": "## Sequence inference ledger",
         }
         for filename, marker in expected.items():
             text = (REFS / filename).read_text(encoding="utf-8")
@@ -58,6 +64,18 @@ class ResearchUpgradeTests(unittest.TestCase):
         entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8").lower()
         self.assertIn("cannot prove that the resulting work is good", entrypoint)
         self.assertIn("actual words, frames, and sequences", entrypoint)
+
+    def test_new_models_change_workflow_without_becoming_pipeline(self):
+        entrypoint = (ROOT / "SKILL.md").read_text(encoding="utf-8").lower()
+        story = (REFS / "story-studio.md").read_text(encoding="utf-8").lower()
+        frame = (REFS / "frame-studio.md").read_text(encoding="utf-8").lower()
+        router = (REFS / "master-thinking-models.md").read_text(encoding="utf-8").lower()
+        self.assertIn("master-mcphee.md", entrypoint)
+        self.assertIn("master-niemann.md", entrypoint)
+        self.assertIn("master-mccloud.md", entrypoint)
+        self.assertIn("when factual material has no structure yet", story)
+        self.assertIn("separate concept, sequence, and surface", frame)
+        self.assertIn("do not run mcphee → niemann → mccloud as an automatic pipeline", router)
 
 
 if __name__ == "__main__":
